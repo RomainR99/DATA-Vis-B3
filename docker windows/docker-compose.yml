@@ -1,0 +1,89 @@
+version: '3.8'
+
+services:
+  # ===========================================
+  # REVERSE PROXY - Point d'entrée unique
+  # ===========================================
+  nginx-proxy:
+    image: nginx:alpine
+    container_name: nginx-proxy
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx-proxy/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - nginx-web1
+      - nginx-web2
+    networks:
+      - frontend
+    restart: unless-stopped
+
+  # ===========================================
+  # WEB SERVER 1
+  # ===========================================
+  nginx-web1:
+    image: nginx:alpine
+    container_name: nginx-web1
+    volumes:
+      - ./nginx-web1/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx-web1/html:/usr/share/nginx/html:ro
+    networks:
+      - frontend
+      - backend
+    restart: unless-stopped
+
+  # ===========================================
+  # WEB SERVER 2
+  # ===========================================
+  nginx-web2:
+    image: nginx:alpine
+    container_name: nginx-web2
+    volumes:
+      - ./nginx-web2/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx-web2/html:/usr/share/nginx/html:ro
+    networks:
+      - frontend
+      - backend
+    restart: unless-stopped
+
+  # ===========================================
+  # BASE DE DONNÉES POSTGRESQL
+  # ===========================================
+  postgres:
+    image: postgres:16-alpine
+    container_name: postgres-db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-secretpassword}
+      POSTGRES_DB: ${POSTGRES_DB:-app_database}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./postgres/init:/docker-entrypoint-initdb.d:ro
+    networks:
+      - backend
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-admin} -d ${POSTGRES_DB:-app_database}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+# ===========================================
+# RÉSEAUX
+# ===========================================
+networks:
+  frontend:
+    driver: bridge
+    name: stack-frontend
+  backend:
+    driver: bridge
+    name: stack-backend
+
+# ===========================================
+# VOLUMES PERSISTANTS
+# ===========================================
+volumes:
+  postgres_data:
+    name: postgres-data

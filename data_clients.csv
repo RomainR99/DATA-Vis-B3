@@ -1,0 +1,501 @@
+client_id;prenom;nom;email;telephone;adresse;code_postal;ville;region;date_inscription;segment;canal_acquisition
+CLI00001;Romain;Thomas;romain.thomas@yahoo.fr;0642868828;58 rue Victor Hugo;75000;Paris;Île-de-France;2024-02-17;Premium;Magasin
+CLI00002;Marie;Vincent;marie.vincent@gmail.com;0613999315;24 rue Victor Hugo;83000;Toulon;Provence-Alpes-Côte d'Azur;2021-04-21;Fidèle;Magasin
+CLI00003;Jean;Roux;jean.roux@free.fr;0666306997;57 rue des Lilas;67000;Strasbourg;Grand Est;2023-04-21;Occasionnel;Site web
+CLI00004;Florian;Dupont;florian.dupont@orange.fr;0655667651;72 rue Victor Hugo;44000;Nantes;Pays de la Loire;2021-03-16;Occasionnel;Site web
+CLI00005;Marie;Lefebvre;marie.lefebvre@yahoo.fr;0656164955;68 rue de la République;31000;Toulouse;Occitanie;2020-03-29;Nouveau;Magasin
+CLI00006;Sophie;Martinez;sophie.martinez@gmail.com;0684093639;76 rue de la République;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2023-07-11;Fidèle;Marketplace
+CLI00007;Julien;Petit;julien.petit@gmail.com;0698753260;59 rue de la République;13000;Marseille;Provence-Alpes-Côte d'Azur;2021-08-15;Premium;Application mobile
+CLI00008;Audrey;Thomas;audrey.thomas@yahoo.fr;0670855700;94 rue Victor Hugo;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2022-01-28;Occasionnel;Application mobile
+CLI00009;Pauline;Leroy;pauline.leroy@free.fr;0695225343;44 rue du Commerce;13000;Marseille;Provence-Alpes-Côte d'Azur;2024-02-02;Standard;Application mobile
+CLI00010;Maxime;Lefebvre;maxime.lefebvre@free.fr;0639476249;84 rue de la République;33000;Bordeaux;Nouvelle-Aquitaine;2024-04-22;Premium;Application mobile
+CLI00011;Kevin;Bernard;kevin.bernard@orange.fr;0645935572;17 rue Victor Hugo;35000;Rennes;Bretagne;2023-03-07;Occasionnel;Application mobile
+CLI00012;Romain;David;romain.david@orange.fr;0629175900;68 rue Victor Hugo;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2021-05-20;Fidèle;Magasin
+CLI00013;Antoine;Lefevre;antoine.lefevre@orange.fr;0688320463;103 rue Jean Jaurès;30000;Nîmes;Occitanie;2021-03-25;Standard;Magasin
+CLI00014;Manon;Dubois;manon.dubois@gmail.com;0630514014;41 rue de la République;69000;Lyon;Auvergne-Rhône-Alpes;2023-10-25;Nouveau;Magasin
+CLI00015;Marie;Lefebvre;marie.lefebvre@free.fr;0672820592;136 rue Jean Jaurès;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2023-02-07;Premium;Site web
+CLI00016;Pauline;François;pauline.françois@yahoo.fr;0696028436;88 rue de la Paix;49000;Angers;Pays de la Loire;2021-08-24;Nouveau;Application mobile
+CLI00017;Maxime;Martin;maxime.martin@free.fr;0633978249;130 rue de la Paix;33000;Bordeaux;Nouvelle-Aquitaine;2023-07-04;Occasionnel;Magasin
+CLI00018;Laura;Petit;laura.petit@yahoo.fr;0631682744;139 rue de la République;06000;Nice;Provence-Alpes-Côte d'Azur;2022-12-22;Premium;Magasin
+CLI00019;Lucas;David;lucas.david@gmail.com;0658718453;79 rue Victor Hugo;75000;Paris;Île-de-France;2020-04-28;Standard;Magasin
+CLI00020;Marie;Dubois;marie.dubois@gmail.com;0681498611;33 rue Victor Hugo;38000;Grenoble;Auvergne-Rhône-Alpes;2023-09-13;Nouveau;Magasin
+CLI00021;Julie;Leroy;julie.leroy@free.fr;0666792612;55 rue du Commerce;21000;Dijon;Bourgogne-Franche-Comté;2024-03-26;Standard;Marketplace
+CLI00022;Hugo;Girard;hugo.girard@orange.fr;0679467853;116 rue de la Paix;51100;Reims;Grand Est;2021-05-22;Standard;Site web
+CLI00023;Lucas;Martin;lucas.martin@free.fr;0640885476;57 rue de la Paix;30000;Nîmes;Occitanie;2020-05-25;Premium;Application mobile
+CLI00024;Marie;François;marie.françois@yahoo.fr;0619510312;132 rue Victor Hugo;69000;Lyon;Auvergne-Rhône-Alpes;2021-07-24;Nouveau;Application mobile
+CLI00025;Sarah;Robert;sarah.robert@free.fr;0673440831;63 rue de la République;30000;Nîmes;Occitanie;2022-08-26;Nouveau;Application mobile
+CLI00026;Sophie;Thomas;sophie.thomas@yahoo.fr;0666851760;106 rue des Lilas;83000;Toulon;Provence-Alpes-Côte d'Azur;2024-02-02;Premium;Site web
+CLI00027;Pierre;Lefebvre;pierre.lefebvre@gmail.com;0643374088;50 rue Victor Hugo;35000;Rennes;Bretagne;2023-01-03;Nouveau;Application mobile
+CLI00028;Chloé;Richard;chloé.richard@orange.fr;0643528453;20 rue des Lilas;33000;Bordeaux;Nouvelle-Aquitaine;2023-02-01;Premium;Site web
+CLI00029;Romain;Roux;romain.roux@gmail.com;0641726318;43 rue des Lilas;75000;Paris;Île-de-France;2022-09-21;Nouveau;Application mobile
+CLI00030;Audrey;Lefebvre;audrey.lefebvre@outlook.fr;0660864911;1 rue des Lilas;69000;Lyon;Auvergne-Rhône-Alpes;2021-06-27;Nouveau;Marketplace
+CLI00031;Chloé;Andre;chloé.andre@orange.fr;0630776478;49 rue Jean Jaurès;49000;Angers;Pays de la Loire;2021-03-21;Premium;Magasin
+CLI00032;Marine;Roux;marine.roux@yahoo.fr;0617672593;13 rue du Commerce;69000;Lyon;Auvergne-Rhône-Alpes;2022-09-03;Fidèle;Magasin
+CLI00033;Julie;Bernard;julie.bernard@gmail.com;0634941004;18 rue du Commerce;21000;Dijon;Bourgogne-Franche-Comté;2020-05-19;Standard;Téléphone
+CLI00034;Sophie;François;sophie.françois@outlook.fr;0687701200;11 rue du Commerce;30000;Nîmes;Occitanie;2020-06-16;Nouveau;Magasin
+CLI00035;Julien;Bertrand;julien.bertrand@yahoo.fr;0637415205;81 rue Victor Hugo;35000;Rennes;Bretagne;2021-06-27;Nouveau;Application mobile
+CLI00036;Pauline;Morel;pauline.morel@orange.fr;0652436584;19 rue de la Paix;59000;Lille;Hauts-de-France;2022-07-27;Fidèle;Magasin
+CLI00037;Sophie;Dubois;sophie.dubois@outlook.fr;0677898694;68 rue Victor Hugo;49000;Angers;Pays de la Loire;2021-12-15;Premium;Application mobile
+CLI00038;Léa;Moreau;léa.moreau@orange.fr;0682909480;78 rue du Commerce;44000;Nantes;Pays de la Loire;2023-09-01;Fidèle;Site web
+CLI00039;Pauline;Lambert;pauline.lambert@yahoo.fr;0699038526;27 rue Victor Hugo;49000;Angers;Pays de la Loire;2021-06-25;Premium;Site web
+CLI00040;Marine;Roux;marine.roux@yahoo.fr;0647816686;54 rue Nationale;06000;Nice;Provence-Alpes-Côte d'Azur;2021-12-03;Standard;Marketplace
+CLI00041;Alexandre;David;alexandre.david@gmail.com;0622388090;109 rue de la République;33000;Bordeaux;Nouvelle-Aquitaine;2021-07-20;Premium;Site web
+CLI00042;Lucas;Mercier;lucas.mercier@yahoo.fr;0631687165;114 rue du Commerce;06000;Nice;Provence-Alpes-Côte d'Azur;2023-12-16;Nouveau;Magasin
+CLI00043;Jean;Thomas;jean.thomas@outlook.fr;0683227889;10 rue de la République;13000;Marseille;Provence-Alpes-Côte d'Azur;2022-01-26;Fidèle;Magasin
+CLI00044;Thomas;Michel;thomas.michel@gmail.com;0651373735;94 rue de la République;06000;Nice;Provence-Alpes-Côte d'Azur;2020-03-22;Occasionnel;Application mobile
+CLI00045;Pauline;Durand;pauline.durand@yahoo.fr;0685146293;105 rue du Commerce;31000;Toulouse;Occitanie;2024-03-14;Standard;Application mobile
+CLI00046;Audrey;Richard;audrey.richard@orange.fr;0613326769;46 rue Nationale;44000;Nantes;Pays de la Loire;2021-11-11;Nouveau;Application mobile
+CLI00047;Antoine;Richard;antoine.richard@orange.fr;0615197528;121 rue Victor Hugo;31000;Toulouse;Occitanie;2021-02-12;Nouveau;Marketplace
+CLI00048;Emma;Lambert;emma.lambert@outlook.fr;0613176186;50 rue des Lilas;34000;Montpellier;Occitanie;2021-11-03;Occasionnel;Site web
+CLI00049;Florian;Leroy;florian.leroy@free.fr;0663643924;138 rue Jean Jaurès;51100;Reims;Grand Est;2020-02-26;Premium;Marketplace
+CLI00050;Julie;Vincent;julie.vincent@gmail.com;0624549543;112 rue Jean Jaurès;33000;Bordeaux;Nouvelle-Aquitaine;2024-02-01;Occasionnel;Téléphone
+CLI00051;Laura;Bertrand;laura.bertrand@orange.fr;0687388337;49 rue Jean Jaurès;31000;Toulouse;Occitanie;2020-03-31;Nouveau;Site web
+CLI00052;Alexandre;Martinez;alexandre.martinez@outlook.fr;0658884978;111 rue de la Paix;49000;Angers;Pays de la Loire;2023-09-22;Occasionnel;Magasin
+CLI00053;Lucas;Girard;lucas.girard@yahoo.fr;0678064830;80 rue Nationale;31000;Toulouse;Occitanie;2022-04-16;Occasionnel;Téléphone
+CLI00054;Quentin;Moreau;quentin.moreau@outlook.fr;0635748341;108 rue Nationale;49000;Angers;Pays de la Loire;2022-02-15;Standard;Magasin
+CLI00055;Julien;Moreau;julien.moreau@free.fr;0610054484;78 rue Jean Jaurès;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2021-03-06;Nouveau;Magasin
+CLI00056;Laura;Morel;laura.morel@orange.fr;0669295515;114 rue Nationale;35000;Rennes;Bretagne;2021-03-13;Fidèle;Téléphone
+CLI00057;Anaïs;François;anaïs.françois@gmail.com;0648089166;132 rue Nationale;44000;Nantes;Pays de la Loire;2023-07-20;Fidèle;Marketplace
+CLI00058;Marie;Lambert;marie.lambert@yahoo.fr;0640150759;51 rue Victor Hugo;34000;Montpellier;Occitanie;2020-02-20;Premium;Application mobile
+CLI00059;Manon;Fournier;manon.fournier@orange.fr;0665625330;148 rue Victor Hugo;13000;Marseille;Provence-Alpes-Côte d'Azur;2024-01-11;Nouveau;Téléphone
+CLI00060;Hugo;Durand;hugo.durand@gmail.com;0624305904;109 rue Victor Hugo;06000;Nice;Provence-Alpes-Côte d'Azur;2020-12-26;Fidèle;Téléphone
+CLI00061;Pierre;Roux;pierre.roux@gmail.com;0671265269;35 rue de la République;34000;Montpellier;Occitanie;2022-08-09;Fidèle;Magasin
+CLI00062;Laura;Simon;laura.simon@free.fr;0677750178;110 rue de la République;76600;Le Havre;Normandie;2023-01-27;Nouveau;Application mobile
+CLI00063;Marine;Bonnet;marine.bonnet@orange.fr;0644788100;64 rue de la République;38000;Grenoble;Auvergne-Rhône-Alpes;2023-07-29;Occasionnel;Magasin
+CLI00064;Manon;Morel;manon.morel@yahoo.fr;0669038700;20 rue Nationale;34000;Montpellier;Occitanie;2021-08-08;Standard;Marketplace
+CLI00065;Lucas;Simon;lucas.simon@gmail.com;0628572252;39 rue Victor Hugo;49000;Angers;Pays de la Loire;2022-02-23;Standard;Application mobile
+CLI00066;Marie;Michel;marie.michel@yahoo.fr;0682828034;120 rue des Lilas;83000;Toulon;Provence-Alpes-Côte d'Azur;2020-05-07;Standard;Téléphone
+CLI00067;Hugo;François;hugo.françois@gmail.com;0687267850;98 rue des Lilas;30000;Nîmes;Occitanie;2020-01-13;Occasionnel;Marketplace
+CLI00068;Florian;Lefebvre;florian.lefebvre@free.fr;0683300637;57 rue des Lilas;83000;Toulon;Provence-Alpes-Côte d'Azur;2021-03-25;Occasionnel;Téléphone
+CLI00069;Manon;Martin;manon.martin@yahoo.fr;0699774697;104 rue Nationale;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2020-12-04;Nouveau;Application mobile
+CLI00070;Laura;Roux;laura.roux@orange.fr;0689442503;145 rue Nationale;75000;Paris;Île-de-France;2020-02-25;Premium;Téléphone
+CLI00071;Thomas;Bonnet;thomas.bonnet@outlook.fr;0616749089;67 rue des Lilas;76600;Le Havre;Normandie;2021-11-01;Standard;Téléphone
+CLI00072;Lucas;Simon;lucas.simon@yahoo.fr;0666581473;65 rue de la République;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2020-06-16;Nouveau;Site web
+CLI00073;Marine;Roux;marine.roux@yahoo.fr;0640094589;18 rue de la République;69000;Lyon;Auvergne-Rhône-Alpes;2023-08-27;Premium;Site web
+CLI00074;Camille;Petit;camille.petit@free.fr;0630452412;62 rue Victor Hugo;75000;Paris;Île-de-France;2022-08-27;Premium;Magasin
+CLI00075;Nicolas;Garcia;nicolas.garcia@yahoo.fr;0632520277;30 rue de la République;33000;Bordeaux;Nouvelle-Aquitaine;2020-12-01;Occasionnel;Site web
+CLI00076;Julien;Martin;julien.martin@free.fr;0660372847;102 rue Nationale;59000;Lille;Hauts-de-France;2021-02-10;Premium;Magasin
+CLI00077;Quentin;Lambert;quentin.lambert@gmail.com;0650477742;31 rue de la République;34000;Montpellier;Occitanie;2023-03-05;Premium;Marketplace
+CLI00078;Sarah;Michel;sarah.michel@gmail.com;0677908907;88 rue de la Paix;51100;Reims;Grand Est;2022-05-10;Nouveau;Site web
+CLI00079;Chloé;Laurent;chloé.laurent@outlook.fr;0668450095;46 rue Nationale;76600;Le Havre;Normandie;2022-12-04;Occasionnel;Magasin
+CLI00080;Anaïs;Martinez;anaïs.martinez@orange.fr;0672394301;112 rue de la République;49000;Angers;Pays de la Loire;2024-02-06;Fidèle;Marketplace
+CLI00081;Lucas;Bonnet;lucas.bonnet@gmail.com;0647437115;116 rue Victor Hugo;34000;Montpellier;Occitanie;2024-03-16;Nouveau;Magasin
+CLI00082;Laura;Girard;laura.girard@yahoo.fr;0613852048;127 rue de la République;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2021-10-27;Standard;Téléphone
+CLI00083;Nicolas;Laurent;nicolas.laurent@yahoo.fr;0647535126;71 rue du Commerce;33000;Bordeaux;Nouvelle-Aquitaine;2020-01-21;Fidèle;Application mobile
+CLI00084;Marie;Durand;marie.durand@orange.fr;0684514489;62 rue Nationale;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-09-02;Nouveau;Téléphone
+CLI00085;Anaïs;Martin;anaïs.martin@yahoo.fr;0639742165;104 rue Nationale;13000;Marseille;Provence-Alpes-Côte d'Azur;2021-05-13;Occasionnel;Magasin
+CLI00086;Léa;David;léa.david@free.fr;0656138336;109 rue Nationale;49000;Angers;Pays de la Loire;2023-02-01;Occasionnel;Marketplace
+CLI00087;Quentin;Garcia;quentin.garcia@yahoo.fr;0643742830;60 rue de la Paix;33000;Bordeaux;Nouvelle-Aquitaine;2024-01-17;Standard;Marketplace
+CLI00088;Sophie;Lefevre;sophie.lefevre@outlook.fr;0635708194;56 rue Nationale;49000;Angers;Pays de la Loire;2022-09-18;Occasionnel;Magasin
+CLI00089;Florian;Bertrand;florian.bertrand@yahoo.fr;0623492385;50 rue Jean Jaurès;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2021-04-10;Occasionnel;Application mobile
+CLI00090;Emma;Martin;emma.martin@outlook.fr;0646817443;12 rue de la Paix;49000;Angers;Pays de la Loire;2023-02-07;Occasionnel;Application mobile
+CLI00091;Romain;Bonnet;romain.bonnet@gmail.com;0611646234;147 rue Jean Jaurès;38000;Grenoble;Auvergne-Rhône-Alpes;2022-08-19;Nouveau;Téléphone
+CLI00092;Lucas;Richard;lucas.richard@yahoo.fr;0674119726;30 rue de la République;69000;Lyon;Auvergne-Rhône-Alpes;2020-05-13;Nouveau;Téléphone
+CLI00093;Marie;Vincent;marie.vincent@outlook.fr;0630024960;145 rue Jean Jaurès;69000;Lyon;Auvergne-Rhône-Alpes;2020-06-23;Standard;Site web
+CLI00094;Sarah;Mercier;sarah.mercier@free.fr;0690010790;58 rue de la République;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-12-06;Nouveau;Téléphone
+CLI00095;Céline;Garcia;céline.garcia@free.fr;0667556566;79 rue du Commerce;59000;Lille;Hauts-de-France;2023-06-25;Premium;Magasin
+CLI00096;Marine;Thomas;marine.thomas@outlook.fr;0645520201;21 rue Victor Hugo;67000;Strasbourg;Grand Est;2021-05-06;Standard;Magasin
+CLI00097;Marie;Richard;marie.richard@orange.fr;0670465583;121 rue Jean Jaurès;75000;Paris;Île-de-France;2020-03-07;Standard;Marketplace
+CLI00098;Quentin;Moreau;quentin.moreau@gmail.com;0641329612;68 rue de la République;76600;Le Havre;Normandie;2024-06-08;Fidèle;Application mobile
+CLI00099;Chloé;Thomas;chloé.thomas@outlook.fr;0696924061;39 rue Jean Jaurès;49000;Angers;Pays de la Loire;2020-10-18;Premium;Site web
+CLI00100;Julie;Dupont;julie.dupont@free.fr;0686397676;74 rue des Lilas;59000;Lille;Hauts-de-France;2020-09-11;Nouveau;Marketplace
+CLI00101;Quentin;Lefebvre;quentin.lefebvre@free.fr;0682475098;127 rue des Lilas;33000;Bordeaux;Nouvelle-Aquitaine;2020-06-13;Fidèle;Site web
+CLI00102;Mathieu;Michel;mathieu.michel@free.fr;0643603811;7 rue de la Paix;35000;Rennes;Bretagne;2021-04-13;Fidèle;Magasin
+CLI00103;Jean;Mercier;jean.mercier@free.fr;0615399803;45 rue des Lilas;33000;Bordeaux;Nouvelle-Aquitaine;2022-11-28;Nouveau;Marketplace
+CLI00104;Julie;Vincent;julie.vincent@orange.fr;0622246348;121 rue Jean Jaurès;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-04-16;Occasionnel;Marketplace
+CLI00105;Pauline;Thomas;pauline.thomas@yahoo.fr;0665250068;127 rue Jean Jaurès;44000;Nantes;Pays de la Loire;2023-09-18;Nouveau;Magasin
+CLI00106;Pierre;Garcia;pierre.garcia@yahoo.fr;0643876400;83 rue de la Paix;13000;Marseille;Provence-Alpes-Côte d'Azur;2024-05-01;Nouveau;Magasin
+CLI00107;Kevin;Martin;kevin.martin@orange.fr;0665465150;14 rue Victor Hugo;49000;Angers;Pays de la Loire;2022-11-27;Occasionnel;Magasin
+CLI00108;Florian;David;florian.david@gmail.com;0637321124;69 rue du Commerce;76600;Le Havre;Normandie;2020-09-25;Occasionnel;Téléphone
+CLI00109;Mathieu;Andre;mathieu.andre@gmail.com;0613874790;62 rue Nationale;38000;Grenoble;Auvergne-Rhône-Alpes;2020-11-20;Occasionnel;Magasin
+CLI00110;Jean;Roux;jean.roux@gmail.com;0640158811;30 rue des Lilas;83000;Toulon;Provence-Alpes-Côte d'Azur;2020-08-28;Standard;Téléphone
+CLI00111;Céline;Andre;céline.andre@free.fr;0646698468;107 rue de la République;59000;Lille;Hauts-de-France;2022-09-15;Nouveau;Application mobile
+CLI00112;Maxime;Roux;maxime.roux@orange.fr;0635583290;131 rue Nationale;06000;Nice;Provence-Alpes-Côte d'Azur;2020-10-06;Premium;Marketplace
+CLI00113;Florian;Dupont;florian.dupont@yahoo.fr;0678147397;69 rue de la République;83000;Toulon;Provence-Alpes-Côte d'Azur;2020-01-06;Occasionnel;Marketplace
+CLI00114;Kevin;Vincent;kevin.vincent@orange.fr;0629944139;115 rue du Commerce;30000;Nîmes;Occitanie;2022-09-18;Occasionnel;Marketplace
+CLI00115;Sarah;Mercier;sarah.mercier@orange.fr;0671115319;83 rue de la République;49000;Angers;Pays de la Loire;2021-01-21;Standard;Magasin
+CLI00116;Hugo;Durand;hugo.durand@gmail.com;0652704903;122 rue Nationale;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-02-19;Nouveau;Application mobile
+CLI00117;Manon;Bernard;manon.bernard@free.fr;0689212676;85 rue de la République;06000;Nice;Provence-Alpes-Côte d'Azur;2020-07-24;Nouveau;Site web
+CLI00118;Alexandre;Martinez;alexandre.martinez@gmail.com;0629348212;105 rue de la République;76600;Le Havre;Normandie;2023-09-02;Standard;Site web
+CLI00119;Manon;Dupont;manon.dupont@yahoo.fr;0693652460;102 rue Nationale;33000;Bordeaux;Nouvelle-Aquitaine;2020-06-13;Occasionnel;Magasin
+CLI00120;Hugo;Simon;hugo.simon@free.fr;0614818295;18 rue Victor Hugo;38000;Grenoble;Auvergne-Rhône-Alpes;2023-07-16;Occasionnel;Application mobile
+CLI00121;Marine;Dubois;marine.dubois@gmail.com;0695060193;26 rue des Lilas;83000;Toulon;Provence-Alpes-Côte d'Azur;2020-12-06;Occasionnel;Site web
+CLI00122;Pierre;Simon;pierre.simon@yahoo.fr;0658112135;96 rue des Lilas;69000;Lyon;Auvergne-Rhône-Alpes;2020-10-25;Standard;Magasin
+CLI00123;Chloé;Vincent;chloé.vincent@outlook.fr;0633497411;21 rue du Commerce;44000;Nantes;Pays de la Loire;2022-02-22;Fidèle;Application mobile
+CLI00124;Manon;Martinez;manon.martinez@outlook.fr;0641163805;119 rue Nationale;30000;Nîmes;Occitanie;2021-06-04;Nouveau;Marketplace
+CLI00125;Pauline;Martin;pauline.martin@yahoo.fr;0683363160;41 rue de la Paix;76600;Le Havre;Normandie;2022-06-23;Occasionnel;Magasin
+CLI00126;Emma;Morel;emma.morel@yahoo.fr;0671315464;78 rue Victor Hugo;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-02-26;Nouveau;Site web
+CLI00127;Camille;Lefebvre;camille.lefebvre@yahoo.fr;0687149951;76 rue Nationale;30000;Nîmes;Occitanie;2021-08-27;Premium;Téléphone
+CLI00128;Antoine;Martin;antoine.martin@gmail.com;0691390501;128 rue de la République;30000;Nîmes;Occitanie;2021-08-09;Standard;Magasin
+CLI00129;Anaïs;Laurent;anaïs.laurent@outlook.fr;0693334601;65 rue Nationale;34000;Montpellier;Occitanie;2024-03-27;Standard;Site web
+CLI00130;Mathieu;Morel;mathieu.morel@yahoo.fr;0669166287;9 rue du Commerce;69000;Lyon;Auvergne-Rhône-Alpes;2022-01-17;Standard;Site web
+CLI00131;Céline;Moreau;céline.moreau@orange.fr;0633574011;52 rue Victor Hugo;35000;Rennes;Bretagne;2024-05-29;Fidèle;Marketplace
+CLI00132;Alexandre;Bertrand;alexandre.bertrand@outlook.fr;0644489940;124 rue de la République;33000;Bordeaux;Nouvelle-Aquitaine;2021-08-27;Occasionnel;Site web
+CLI00133;Maxime;Dubois;maxime.dubois@outlook.fr;0663339667;143 rue Jean Jaurès;06000;Nice;Provence-Alpes-Côte d'Azur;2020-07-03;Nouveau;Site web
+CLI00134;Antoine;Roux;antoine.roux@orange.fr;0659470729;68 rue du Commerce;31000;Toulouse;Occitanie;2022-02-19;Occasionnel;Site web
+CLI00135;Pauline;Durand;pauline.durand@gmail.com;0693154172;144 rue Jean Jaurès;38000;Grenoble;Auvergne-Rhône-Alpes;2023-06-03;Standard;Site web
+CLI00136;Romain;Lambert;romain.lambert@yahoo.fr;0697139443;105 rue de la Paix;76600;Le Havre;Normandie;2020-10-13;Premium;Site web
+CLI00137;Emma;David;emma.david@gmail.com;0641514326;138 rue Victor Hugo;31000;Toulouse;Occitanie;2022-03-06;Nouveau;Marketplace
+CLI00138;Pauline;Lefevre;pauline.lefevre@orange.fr;0688831486;40 rue des Lilas;49000;Angers;Pays de la Loire;2023-09-03;Premium;Téléphone
+CLI00139;Laura;Michel;laura.michel@gmail.com;0659731689;56 rue des Lilas;33000;Bordeaux;Nouvelle-Aquitaine;2022-06-29;Standard;Marketplace
+CLI00140;Sophie;Girard;sophie.girard@free.fr;0696547189;92 rue de la Paix;51100;Reims;Grand Est;2022-03-26;Occasionnel;Application mobile
+CLI00141;Sophie;Bonnet;sophie.bonnet@gmail.com;0698955314;55 rue Nationale;76600;Le Havre;Normandie;2023-08-02;Fidèle;Site web
+CLI00142;Pierre;Dupont;pierre.dupont@outlook.fr;0626901217;145 rue Victor Hugo;35000;Rennes;Bretagne;2020-05-20;Fidèle;Application mobile
+CLI00143;Julien;Petit;julien.petit@yahoo.fr;0629804386;1 rue Jean Jaurès;34000;Montpellier;Occitanie;2020-10-23;Standard;Magasin
+CLI00144;Antoine;Dupont;antoine.dupont@gmail.com;0698725654;7 rue Victor Hugo;44000;Nantes;Pays de la Loire;2020-01-31;Occasionnel;Application mobile
+CLI00145;Julien;Simon;julien.simon@outlook.fr;0645617024;14 rue Victor Hugo;75000;Paris;Île-de-France;2024-02-28;Nouveau;Magasin
+CLI00146;Sophie;Lefevre;sophie.lefevre@orange.fr;0670166480;93 rue du Commerce;13000;Marseille;Provence-Alpes-Côte d'Azur;2023-04-30;Premium;Téléphone
+CLI00147;Alexandre;Durand;alexandre.durand@gmail.com;0698436473;134 rue Jean Jaurès;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2022-07-27;Premium;Site web
+CLI00148;Manon;Bonnet;manon.bonnet@orange.fr;0624490391;126 rue Nationale;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2022-06-27;Premium;Site web
+CLI00149;Lucas;Fournier;lucas.fournier@gmail.com;0626937148;71 rue du Commerce;06000;Nice;Provence-Alpes-Côte d'Azur;2023-07-20;Fidèle;Magasin
+CLI00150;Quentin;Simon;quentin.simon@free.fr;0681210133;76 rue des Lilas;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2022-11-01;Fidèle;Téléphone
+CLI00151;Sophie;Dupont;sophie.dupont@free.fr;0638859907;111 rue des Lilas;31000;Toulouse;Occitanie;2021-04-12;Nouveau;Marketplace
+CLI00152;Kevin;Garcia;kevin.garcia@orange.fr;0622762205;81 rue des Lilas;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2021-10-02;Occasionnel;Marketplace
+CLI00153;Thomas;Girard;thomas.girard@gmail.com;0622243983;22 rue de la Paix;38000;Grenoble;Auvergne-Rhône-Alpes;2022-06-03;Premium;Marketplace
+CLI00154;Anaïs;Robert;anaïs.robert@gmail.com;0688714010;144 rue du Commerce;49000;Angers;Pays de la Loire;2021-11-06;Premium;Téléphone
+CLI00155;Léa;Bonnet;léa.bonnet@gmail.com;0648604965;80 rue Jean Jaurès;83000;Toulon;Provence-Alpes-Côte d'Azur;2020-07-31;Fidèle;Magasin
+CLI00156;Nicolas;Robert;nicolas.robert@outlook.fr;0624524825;90 rue de la République;38000;Grenoble;Auvergne-Rhône-Alpes;2023-02-13;Occasionnel;Site web
+CLI00157;Florian;Leroy;florian.leroy@outlook.fr;0667594492;144 rue de la République;30000;Nîmes;Occitanie;2023-06-27;Fidèle;Magasin
+CLI00158;Jean;Fournier;jean.fournier@gmail.com;0634215035;70 rue Nationale;33000;Bordeaux;Nouvelle-Aquitaine;2024-04-10;Occasionnel;Marketplace
+CLI00159;Léa;Martin;léa.martin@outlook.fr;0686010330;103 rue de la Paix;44000;Nantes;Pays de la Loire;2020-10-17;Premium;Site web
+CLI00160;Marine;Bertrand;marine.bertrand@orange.fr;0666348963;117 rue Jean Jaurès;67000;Strasbourg;Grand Est;2020-11-18;Occasionnel;Marketplace
+CLI00161;Marine;Simon;marine.simon@free.fr;0621402740;14 rue Victor Hugo;30000;Nîmes;Occitanie;2020-11-18;Fidèle;Site web
+CLI00162;Pauline;Dubois;pauline.dubois@orange.fr;0698843907;109 rue des Lilas;33000;Bordeaux;Nouvelle-Aquitaine;2023-05-28;Nouveau;Téléphone
+CLI00163;Antoine;Petit;antoine.petit@gmail.com;0656328316;111 rue de la Paix;21000;Dijon;Bourgogne-Franche-Comté;2021-08-03;Fidèle;Téléphone
+CLI00164;Alexandre;Girard;alexandre.girard@gmail.com;0639597483;102 rue du Commerce;59000;Lille;Hauts-de-France;2020-04-22;Premium;Application mobile
+CLI00165;Emma;Petit;emma.petit@yahoo.fr;0648848936;84 rue de la Paix;06000;Nice;Provence-Alpes-Côte d'Azur;2020-01-16;Nouveau;Téléphone
+CLI00166;Julie;Robert;julie.robert@free.fr;0640884937;129 rue du Commerce;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2023-09-30;Occasionnel;Site web
+CLI00167;Hugo;Bonnet;hugo.bonnet@orange.fr;0612515446;118 rue de la Paix;69000;Lyon;Auvergne-Rhône-Alpes;2021-10-03;Fidèle;Téléphone
+CLI00168;Julien;Lefebvre;julien.lefebvre@yahoo.fr;0625458308;104 rue de la Paix;83000;Toulon;Provence-Alpes-Côte d'Azur;2021-10-27;Standard;Magasin
+CLI00169;Maxime;Lambert;maxime.lambert@gmail.com;0668614462;28 rue Victor Hugo;51100;Reims;Grand Est;2022-06-11;Fidèle;Téléphone
+CLI00170;Alexandre;Dubois;alexandre.dubois@yahoo.fr;0655568701;57 rue Jean Jaurès;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2024-05-14;Standard;Site web
+CLI00171;Alexandre;Morel;alexandre.morel@free.fr;0678444607;50 rue de la République;31000;Toulouse;Occitanie;2021-12-16;Occasionnel;Application mobile
+CLI00172;Camille;Thomas;camille.thomas@yahoo.fr;0636477373;45 rue du Commerce;06000;Nice;Provence-Alpes-Côte d'Azur;2020-11-09;Premium;Application mobile
+CLI00173;Florian;Morel;florian.morel@orange.fr;0685663295;149 rue des Lilas;38000;Grenoble;Auvergne-Rhône-Alpes;2023-10-26;Fidèle;Magasin
+CLI00174;Lucas;Bonnet;lucas.bonnet@outlook.fr;0669023966;18 rue des Lilas;35000;Rennes;Bretagne;2022-06-24;Occasionnel;Marketplace
+CLI00175;Julien;Bernard;julien.bernard@free.fr;0619957701;80 rue des Lilas;51100;Reims;Grand Est;2022-07-14;Premium;Site web
+CLI00176;Léa;Lambert;léa.lambert@gmail.com;0696525668;24 rue du Commerce;59000;Lille;Hauts-de-France;2023-05-01;Fidèle;Téléphone
+CLI00177;Maxime;Vincent;maxime.vincent@gmail.com;0670362235;147 rue Nationale;49000;Angers;Pays de la Loire;2021-01-20;Occasionnel;Magasin
+CLI00178;Manon;Bertrand;manon.bertrand@gmail.com;0670468188;27 rue de la République;06000;Nice;Provence-Alpes-Côte d'Azur;2021-12-04;Premium;Magasin
+CLI00179;Romain;Richard;romain.richard@outlook.fr;0668754920;113 rue du Commerce;69000;Lyon;Auvergne-Rhône-Alpes;2022-12-06;Fidèle;Application mobile
+CLI00180;Léa;Laurent;léa.laurent@orange.fr;0664864099;87 rue Nationale;59000;Lille;Hauts-de-France;2023-05-09;Premium;Marketplace
+CLI00181;Marie;Simon;marie.simon@free.fr;0661883769;73 rue Jean Jaurès;31000;Toulouse;Occitanie;2024-01-22;Fidèle;Application mobile
+CLI00182;Lucas;Dubois;lucas.dubois@outlook.fr;0656952151;80 rue Nationale;30000;Nîmes;Occitanie;2023-12-01;Nouveau;Application mobile
+CLI00183;Laura;Andre;laura.andre@yahoo.fr;0685017250;97 rue Nationale;13000;Marseille;Provence-Alpes-Côte d'Azur;2024-06-09;Occasionnel;Application mobile
+CLI00184;Pauline;Andre;pauline.andre@gmail.com;0696707983;109 rue du Commerce;21000;Dijon;Bourgogne-Franche-Comté;2022-01-11;Premium;Marketplace
+CLI00185;Emma;Richard;emma.richard@yahoo.fr;0675266178;50 rue Victor Hugo;67000;Strasbourg;Grand Est;2020-10-08;Standard;Site web
+CLI00186;Emma;Bonnet;emma.bonnet@free.fr;0682446804;135 rue de la Paix;31000;Toulouse;Occitanie;2023-09-17;Occasionnel;Magasin
+CLI00187;Thomas;Fournier;thomas.fournier@outlook.fr;0631776452;47 rue de la République;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2023-11-19;Fidèle;Application mobile
+CLI00188;Marine;Garcia;marine.garcia@orange.fr;0658895439;61 rue des Lilas;69000;Lyon;Auvergne-Rhône-Alpes;2023-06-04;Occasionnel;Téléphone
+CLI00189;Camille;Roux;camille.roux@yahoo.fr;0672950208;50 rue Jean Jaurès;34000;Montpellier;Occitanie;2023-10-21;Fidèle;Téléphone
+CLI00190;Maxime;Mercier;maxime.mercier@orange.fr;0677498993;136 rue des Lilas;59000;Lille;Hauts-de-France;2020-11-27;Standard;Magasin
+CLI00191;Thomas;Bonnet;thomas.bonnet@gmail.com;0696057593;124 rue de la République;33000;Bordeaux;Nouvelle-Aquitaine;2022-01-30;Fidèle;Site web
+CLI00192;Quentin;Bonnet;quentin.bonnet@gmail.com;0648260510;22 rue de la République;21000;Dijon;Bourgogne-Franche-Comté;2020-11-24;Occasionnel;Téléphone
+CLI00193;Mathieu;Bertrand;mathieu.bertrand@orange.fr;0622309586;57 rue de la République;06000;Nice;Provence-Alpes-Côte d'Azur;2022-07-12;Occasionnel;Site web
+CLI00194;Chloé;Bernard;chloé.bernard@free.fr;0660192261;61 rue des Lilas;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2020-06-16;Occasionnel;Application mobile
+CLI00195;Jean;Simon;jean.simon@yahoo.fr;0629602406;36 rue de la Paix;31000;Toulouse;Occitanie;2021-08-10;Nouveau;Application mobile
+CLI00196;Florian;Andre;florian.andre@orange.fr;0692590645;2 rue de la Paix;38000;Grenoble;Auvergne-Rhône-Alpes;2020-02-08;Occasionnel;Application mobile
+CLI00197;Kevin;Robert;kevin.robert@free.fr;0680836292;109 rue de la Paix;49000;Angers;Pays de la Loire;2024-05-08;Occasionnel;Application mobile
+CLI00198;Emma;Thomas;emma.thomas@outlook.fr;0666348030;118 rue de la Paix;69000;Lyon;Auvergne-Rhône-Alpes;2020-08-15;Nouveau;Magasin
+CLI00199;Sarah;Martin;sarah.martin@free.fr;0642472386;37 rue Jean Jaurès;21000;Dijon;Bourgogne-Franche-Comté;2022-05-29;Premium;Magasin
+CLI00200;Léa;Durand;léa.durand@orange.fr;0635140847;22 rue du Commerce;30000;Nîmes;Occitanie;2022-01-08;Premium;Magasin
+CLI00201;Sarah;Bertrand;sarah.bertrand@free.fr;0612729224;100 rue de la République;21000;Dijon;Bourgogne-Franche-Comté;2022-08-20;Premium;Téléphone
+CLI00202;Léa;Leroy;léa.leroy@yahoo.fr;0619067690;89 rue Victor Hugo;75000;Paris;Île-de-France;2024-02-10;Premium;Magasin
+CLI00203;Marine;Mercier;marine.mercier@outlook.fr;0615950635;91 rue du Commerce;35000;Rennes;Bretagne;2021-11-24;Standard;Téléphone
+CLI00204;Quentin;David;quentin.david@outlook.fr;0618469210;118 rue de la Paix;44000;Nantes;Pays de la Loire;2021-08-23;Standard;Site web
+CLI00205;Anaïs;Petit;anaïs.petit@yahoo.fr;0651617680;132 rue des Lilas;69000;Lyon;Auvergne-Rhône-Alpes;2023-01-17;Nouveau;Marketplace
+CLI00206;Pierre;Mercier;pierre.mercier@yahoo.fr;0657912262;13 rue de la République;67000;Strasbourg;Grand Est;2023-09-04;Occasionnel;Marketplace
+CLI00207;Sophie;Dupont;sophie.dupont@orange.fr;0663690013;113 rue des Lilas;51100;Reims;Grand Est;2021-11-25;Standard;Téléphone
+CLI00208;Quentin;David;quentin.david@free.fr;0645798645;22 rue Nationale;51100;Reims;Grand Est;2022-05-19;Premium;Téléphone
+CLI00209;Laura;Lambert;laura.lambert@free.fr;0649428661;83 rue de la Paix;44000;Nantes;Pays de la Loire;2020-06-12;Occasionnel;Marketplace
+CLI00210;Emma;Garcia;emma.garcia@orange.fr;0632366682;114 rue Jean Jaurès;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2022-07-04;Premium;Marketplace
+CLI00211;Laura;Michel;laura.michel@gmail.com;0620071854;104 rue Jean Jaurès;33000;Bordeaux;Nouvelle-Aquitaine;2022-11-16;Standard;Site web
+CLI00212;Thomas;Bonnet;thomas.bonnet@orange.fr;0614670638;33 rue de la Paix;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2021-04-28;Occasionnel;Marketplace
+CLI00213;Hugo;Vincent;hugo.vincent@free.fr;0630594121;116 rue Jean Jaurès;69000;Lyon;Auvergne-Rhône-Alpes;2022-01-31;Nouveau;Site web
+CLI00214;Julien;Robert;julien.robert@yahoo.fr;0663423225;81 rue Nationale;21000;Dijon;Bourgogne-Franche-Comté;2021-07-24;Standard;Site web
+CLI00215;Jean;Lefevre;jean.lefevre@orange.fr;0679490594;100 rue du Commerce;44000;Nantes;Pays de la Loire;2020-08-29;Occasionnel;Marketplace
+CLI00216;Quentin;Garcia;quentin.garcia@free.fr;0648329479;126 rue Victor Hugo;67000;Strasbourg;Grand Est;2020-09-08;Standard;Site web
+CLI00217;Maxime;Richard;maxime.richard@gmail.com;0652894344;89 rue Nationale;76600;Le Havre;Normandie;2020-05-12;Fidèle;Magasin
+CLI00218;Emma;François;emma.françois@outlook.fr;0695590648;45 rue de la République;59000;Lille;Hauts-de-France;2022-01-10;Fidèle;Application mobile
+CLI00219;Sophie;Petit;sophie.petit@outlook.fr;0676306502;7 rue Jean Jaurès;06000;Nice;Provence-Alpes-Côte d'Azur;2023-02-08;Fidèle;Marketplace
+CLI00220;Maxime;Dupont;maxime.dupont@outlook.fr;0692134318;23 rue de la Paix;49000;Angers;Pays de la Loire;2021-09-25;Nouveau;Téléphone
+CLI00221;Alexandre;Michel;alexandre.michel@free.fr;0619898653;33 rue Jean Jaurès;83000;Toulon;Provence-Alpes-Côte d'Azur;2023-08-08;Premium;Téléphone
+CLI00222;Maxime;Girard;maxime.girard@yahoo.fr;0627224779;142 rue Nationale;21000;Dijon;Bourgogne-Franche-Comté;2023-04-18;Standard;Application mobile
+CLI00223;Chloé;Bertrand;chloé.bertrand@gmail.com;0679538491;40 rue Jean Jaurès;69000;Lyon;Auvergne-Rhône-Alpes;2020-12-03;Standard;Marketplace
+CLI00224;Céline;Andre;céline.andre@yahoo.fr;0679645282;73 rue de la République;34000;Montpellier;Occitanie;2020-06-10;Occasionnel;Application mobile
+CLI00225;Romain;Roux;romain.roux@outlook.fr;0693889081;78 rue du Commerce;33000;Bordeaux;Nouvelle-Aquitaine;2022-12-28;Premium;Magasin
+CLI00226;Romain;Richard;romain.richard@free.fr;0630695604;44 rue Nationale;30000;Nîmes;Occitanie;2023-07-02;Fidèle;Marketplace
+CLI00227;Kevin;Martinez;kevin.martinez@gmail.com;0613808225;21 rue de la Paix;30000;Nîmes;Occitanie;2023-08-06;Fidèle;Marketplace
+CLI00228;Romain;Petit;romain.petit@orange.fr;0692961108;8 rue des Lilas;30000;Nîmes;Occitanie;2023-07-08;Fidèle;Marketplace
+CLI00229;Romain;Moreau;romain.moreau@outlook.fr;0664504816;77 rue des Lilas;38000;Grenoble;Auvergne-Rhône-Alpes;2020-05-29;Premium;Application mobile
+CLI00230;Maxime;Michel;maxime.michel@orange.fr;0637383505;88 rue du Commerce;38000;Grenoble;Auvergne-Rhône-Alpes;2020-10-21;Occasionnel;Marketplace
+CLI00231;Marine;Bonnet;marine.bonnet@orange.fr;0627551135;95 rue du Commerce;51100;Reims;Grand Est;2023-02-24;Premium;Marketplace
+CLI00232;Camille;Garcia;camille.garcia@yahoo.fr;0670343755;64 rue Victor Hugo;31000;Toulouse;Occitanie;2020-07-17;Premium;Marketplace
+CLI00233;Hugo;Bonnet;hugo.bonnet@orange.fr;0643322272;41 rue de la République;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2021-11-01;Fidèle;Marketplace
+CLI00234;Nicolas;Mercier;nicolas.mercier@orange.fr;0679085198;120 rue des Lilas;44000;Nantes;Pays de la Loire;2021-09-23;Nouveau;Site web
+CLI00235;Marie;Lefebvre;marie.lefebvre@orange.fr;0642310051;56 rue du Commerce;21000;Dijon;Bourgogne-Franche-Comté;2021-12-23;Premium;Site web
+CLI00236;Emma;David;emma.david@orange.fr;0648352498;138 rue de la Paix;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2020-08-08;Nouveau;Application mobile
+CLI00237;Mathieu;Leroy;mathieu.leroy@orange.fr;0659115280;12 rue des Lilas;51100;Reims;Grand Est;2020-04-14;Fidèle;Magasin
+CLI00238;Nicolas;Laurent;nicolas.laurent@yahoo.fr;0619869264;99 rue du Commerce;49000;Angers;Pays de la Loire;2022-07-11;Fidèle;Marketplace
+CLI00239;Kevin;Fournier;kevin.fournier@gmail.com;0627268907;25 rue des Lilas;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2022-02-03;Occasionnel;Magasin
+CLI00240;Léa;Mercier;léa.mercier@outlook.fr;0690861208;131 rue des Lilas;06000;Nice;Provence-Alpes-Côte d'Azur;2022-10-21;Premium;Site web
+CLI00241;Pierre;Robert;pierre.robert@orange.fr;0679703656;117 rue Victor Hugo;35000;Rennes;Bretagne;2023-05-26;Fidèle;Application mobile
+CLI00242;Lucas;Martinez;lucas.martinez@yahoo.fr;0631810655;101 rue du Commerce;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2024-02-23;Occasionnel;Magasin
+CLI00243;Lucas;Bertrand;lucas.bertrand@free.fr;0675746104;145 rue Jean Jaurès;21000;Dijon;Bourgogne-Franche-Comté;2022-08-30;Premium;Marketplace
+CLI00244;Lucas;Girard;lucas.girard@orange.fr;0688343175;79 rue de la République;31000;Toulouse;Occitanie;2024-01-25;Premium;Magasin
+CLI00245;Manon;Leroy;manon.leroy@free.fr;0640540334;14 rue du Commerce;30000;Nîmes;Occitanie;2022-09-10;Standard;Magasin
+CLI00246;Romain;Lefevre;romain.lefevre@orange.fr;0629834119;63 rue de la Paix;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2023-03-18;Premium;Application mobile
+CLI00247;Jean;Garcia;jean.garcia@orange.fr;0630324759;106 rue Nationale;35000;Rennes;Bretagne;2021-02-21;Nouveau;Magasin
+CLI00248;Florian;Fournier;florian.fournier@gmail.com;0628533117;133 rue Victor Hugo;38000;Grenoble;Auvergne-Rhône-Alpes;2023-02-22;Occasionnel;Téléphone
+CLI00249;Alexandre;Lefebvre;alexandre.lefebvre@outlook.fr;0671694994;137 rue Jean Jaurès;35000;Rennes;Bretagne;2023-01-23;Occasionnel;Marketplace
+CLI00250;Laura;David;laura.david@outlook.fr;0647447604;143 rue Jean Jaurès;67000;Strasbourg;Grand Est;2021-04-05;Occasionnel;Marketplace
+CLI00251;Quentin;Petit;quentin.petit@yahoo.fr;0674398125;90 rue du Commerce;38000;Grenoble;Auvergne-Rhône-Alpes;2024-06-16;Occasionnel;Marketplace
+CLI00252;Sophie;Vincent;sophie.vincent@orange.fr;0662953249;89 rue de la République;49000;Angers;Pays de la Loire;2020-10-26;Occasionnel;Site web
+CLI00253;Emma;Andre;emma.andre@yahoo.fr;0669374716;66 rue Nationale;13000;Marseille;Provence-Alpes-Côte d'Azur;2022-09-08;Standard;Application mobile
+CLI00254;Kevin;Roux;kevin.roux@free.fr;0646456416;36 rue de la Paix;33000;Bordeaux;Nouvelle-Aquitaine;2023-06-14;Fidèle;Application mobile
+CLI00255;Camille;Bernard;camille.bernard@outlook.fr;0695623471;60 rue de la Paix;21000;Dijon;Bourgogne-Franche-Comté;2020-07-24;Nouveau;Marketplace
+CLI00256;Quentin;David;quentin.david@outlook.fr;0610695441;141 rue Victor Hugo;31000;Toulouse;Occitanie;2022-04-13;Nouveau;Téléphone
+CLI00257;Romain;Petit;romain.petit@yahoo.fr;0648307798;16 rue de la République;59000;Lille;Hauts-de-France;2020-07-02;Fidèle;Application mobile
+CLI00258;Sarah;Lefevre;sarah.lefevre@outlook.fr;0666087572;46 rue de la Paix;69000;Lyon;Auvergne-Rhône-Alpes;2022-03-24;Nouveau;Application mobile
+CLI00259;Céline;Lefevre;céline.lefevre@gmail.com;0611243818;77 rue du Commerce;59000;Lille;Hauts-de-France;2023-05-19;Premium;Marketplace
+CLI00260;Emma;Garcia;emma.garcia@free.fr;0676291802;35 rue de la République;49000;Angers;Pays de la Loire;2022-10-29;Nouveau;Marketplace
+CLI00261;Nicolas;Dupont;nicolas.dupont@yahoo.fr;0631809610;118 rue Nationale;31000;Toulouse;Occitanie;2021-06-10;Standard;Site web
+CLI00262;Marine;Simon;marine.simon@free.fr;0635925669;45 rue du Commerce;59000;Lille;Hauts-de-France;2023-08-01;Nouveau;Téléphone
+CLI00263;Alexandre;Simon;alexandre.simon@orange.fr;0699826000;25 rue Victor Hugo;13000;Marseille;Provence-Alpes-Côte d'Azur;2020-10-14;Nouveau;Marketplace
+CLI00264;Céline;Durand;céline.durand@yahoo.fr;0661482483;61 rue des Lilas;75000;Paris;Île-de-France;2024-03-23;Occasionnel;Marketplace
+CLI00265;Emma;Vincent;emma.vincent@gmail.com;0645105069;93 rue Nationale;30000;Nîmes;Occitanie;2021-04-28;Premium;Site web
+CLI00266;Maxime;Moreau;maxime.moreau@orange.fr;0677447155;80 rue Nationale;44000;Nantes;Pays de la Loire;2020-08-28;Occasionnel;Marketplace
+CLI00267;Laura;Durand;laura.durand@outlook.fr;0674180488;40 rue des Lilas;34000;Montpellier;Occitanie;2024-03-11;Fidèle;Marketplace
+CLI00268;Chloé;Andre;chloé.andre@orange.fr;0682144402;56 rue de la République;49000;Angers;Pays de la Loire;2021-05-21;Fidèle;Site web
+CLI00269;Alexandre;Garcia;alexandre.garcia@yahoo.fr;0620482769;145 rue de la Paix;21000;Dijon;Bourgogne-Franche-Comté;2020-05-06;Fidèle;Magasin
+CLI00270;Nicolas;Vincent;nicolas.vincent@outlook.fr;0632083803;84 rue de la République;49000;Angers;Pays de la Loire;2022-12-01;Nouveau;Site web
+CLI00271;Pauline;Petit;pauline.petit@orange.fr;0622205980;131 rue des Lilas;30000;Nîmes;Occitanie;2020-04-23;Nouveau;Application mobile
+CLI00272;Alexandre;Michel;alexandre.michel@free.fr;0617749299;144 rue des Lilas;76600;Le Havre;Normandie;2023-10-09;Occasionnel;Site web
+CLI00273;Hugo;Leroy;hugo.leroy@outlook.fr;0687619624;19 rue de la Paix;75000;Paris;Île-de-France;2022-05-17;Occasionnel;Site web
+CLI00274;Sarah;Bernard;sarah.bernard@orange.fr;0614259382;74 rue des Lilas;13000;Marseille;Provence-Alpes-Côte d'Azur;2021-01-03;Standard;Téléphone
+CLI00275;Léa;François;léa.françois@orange.fr;0660666702;97 rue de la Paix;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2023-10-30;Fidèle;Application mobile
+CLI00276;Romain;Bonnet;romain.bonnet@gmail.com;0633954324;138 rue des Lilas;51100;Reims;Grand Est;2022-12-19;Standard;Application mobile
+CLI00277;Kevin;Martin;kevin.martin@yahoo.fr;0672143331;140 rue des Lilas;75000;Paris;Île-de-France;2022-12-25;Nouveau;Application mobile
+CLI00278;Camille;Garcia;camille.garcia@outlook.fr;0646997080;49 rue Nationale;51100;Reims;Grand Est;2024-04-16;Premium;Site web
+CLI00279;Anaïs;Girard;anaïs.girard@free.fr;0612099943;62 rue Victor Hugo;83000;Toulon;Provence-Alpes-Côte d'Azur;2020-05-17;Premium;Magasin
+CLI00280;Pierre;Garcia;pierre.garcia@gmail.com;0642847661;12 rue des Lilas;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2022-06-17;Standard;Magasin
+CLI00281;Nicolas;Mercier;nicolas.mercier@outlook.fr;0677631755;75 rue Victor Hugo;69000;Lyon;Auvergne-Rhône-Alpes;2024-02-07;Fidèle;Marketplace
+CLI00282;Julien;Fournier;julien.fournier@outlook.fr;0650502136;37 rue Nationale;35000;Rennes;Bretagne;2022-12-03;Standard;Téléphone
+CLI00283;Emma;Leroy;emma.leroy@free.fr;0689412216;45 rue Nationale;69000;Lyon;Auvergne-Rhône-Alpes;2023-10-22;Nouveau;Magasin
+CLI00284;Manon;Bernard;manon.bernard@orange.fr;0680392240;82 rue Nationale;51100;Reims;Grand Est;2022-05-02;Nouveau;Application mobile
+CLI00285;Emma;Lefebvre;emma.lefebvre@free.fr;0673554620;62 rue de la République;44000;Nantes;Pays de la Loire;2021-04-06;Occasionnel;Application mobile
+CLI00286;Anaïs;Garcia;anaïs.garcia@free.fr;0665388634;107 rue du Commerce;69000;Lyon;Auvergne-Rhône-Alpes;2022-12-21;Standard;Téléphone
+CLI00287;Camille;Leroy;camille.leroy@yahoo.fr;0696799390;21 rue des Lilas;67000;Strasbourg;Grand Est;2022-01-29;Premium;Magasin
+CLI00288;Marine;Lambert;marine.lambert@gmail.com;0646032304;97 rue Nationale;67000;Strasbourg;Grand Est;2023-05-23;Fidèle;Site web
+CLI00289;Audrey;Dubois;audrey.dubois@free.fr;0685007641;56 rue des Lilas;67000;Strasbourg;Grand Est;2021-03-03;Occasionnel;Marketplace
+CLI00290;Céline;Martin;céline.martin@outlook.fr;0625745913;123 rue Victor Hugo;67000;Strasbourg;Grand Est;2023-11-25;Fidèle;Application mobile
+CLI00291;Hugo;Martinez;hugo.martinez@free.fr;0653166435;73 rue des Lilas;34000;Montpellier;Occitanie;2022-08-12;Fidèle;Marketplace
+CLI00292;Emma;Leroy;emma.leroy@free.fr;0676743428;120 rue de la Paix;51100;Reims;Grand Est;2024-01-19;Nouveau;Marketplace
+CLI00293;Céline;Petit;céline.petit@yahoo.fr;0665556767;12 rue du Commerce;51100;Reims;Grand Est;2021-03-29;Standard;Site web
+CLI00294;Antoine;Roux;antoine.roux@free.fr;0666046380;76 rue Victor Hugo;30000;Nîmes;Occitanie;2021-02-05;Occasionnel;Application mobile
+CLI00295;Hugo;Vincent;hugo.vincent@orange.fr;0683905989;87 rue Jean Jaurès;34000;Montpellier;Occitanie;2024-04-12;Nouveau;Téléphone
+CLI00296;Maxime;Richard;maxime.richard@outlook.fr;0628784915;140 rue des Lilas;51100;Reims;Grand Est;2021-01-11;Fidèle;Site web
+CLI00297;Alexandre;Bernard;alexandre.bernard@gmail.com;0610856822;106 rue Victor Hugo;13000;Marseille;Provence-Alpes-Côte d'Azur;2023-07-15;Standard;Site web
+CLI00298;Quentin;Robert;quentin.robert@outlook.fr;0677878323;117 rue Jean Jaurès;75000;Paris;Île-de-France;2020-05-03;Fidèle;Magasin
+CLI00299;Céline;David;céline.david@gmail.com;0610887495;137 rue du Commerce;38000;Grenoble;Auvergne-Rhône-Alpes;2022-04-22;Premium;Site web
+CLI00300;Alexandre;Lefevre;alexandre.lefevre@free.fr;0648478684;5 rue du Commerce;33000;Bordeaux;Nouvelle-Aquitaine;2023-11-30;Nouveau;Application mobile
+CLI00301;Sophie;Martinez;sophie.martinez@free.fr;0629984682;62 rue Victor Hugo;31000;Toulouse;Occitanie;2023-06-23;Fidèle;Marketplace
+CLI00302;Kevin;Laurent;kevin.laurent@orange.fr;0620605783;96 rue des Lilas;33000;Bordeaux;Nouvelle-Aquitaine;2022-07-29;Fidèle;Application mobile
+CLI00303;Quentin;Durand;quentin.durand@gmail.com;0697742922;9 rue de la Paix;59000;Lille;Hauts-de-France;2022-04-10;Nouveau;Téléphone
+CLI00304;Sarah;David;sarah.david@gmail.com;0633002714;22 rue des Lilas;69000;Lyon;Auvergne-Rhône-Alpes;2022-06-07;Occasionnel;Magasin
+CLI00305;Audrey;Thomas;audrey.thomas@gmail.com;0640838737;55 rue de la République;21000;Dijon;Bourgogne-Franche-Comté;2023-11-18;Fidèle;Téléphone
+CLI00306;Antoine;Bernard;antoine.bernard@yahoo.fr;0682884346;145 rue Nationale;13000;Marseille;Provence-Alpes-Côte d'Azur;2020-03-08;Standard;Marketplace
+CLI00307;Jean;Petit;jean.petit@outlook.fr;0663458386;20 rue Jean Jaurès;30000;Nîmes;Occitanie;2020-11-28;Fidèle;Application mobile
+CLI00308;Julien;Lambert;julien.lambert@free.fr;0654524025;99 rue de la République;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2024-02-23;Standard;Site web
+CLI00309;Alexandre;Lefevre;alexandre.lefevre@gmail.com;0623111164;112 rue Victor Hugo;51100;Reims;Grand Est;2020-06-04;Occasionnel;Magasin
+CLI00310;Florian;Fournier;florian.fournier@orange.fr;0653805532;8 rue Nationale;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2021-07-13;Nouveau;Téléphone
+CLI00311;Camille;Laurent;camille.laurent@orange.fr;0667961650;48 rue Nationale;49000;Angers;Pays de la Loire;2023-04-14;Nouveau;Site web
+CLI00312;Florian;Fournier;florian.fournier@outlook.fr;0619865900;22 rue Jean Jaurès;59000;Lille;Hauts-de-France;2020-11-11;Nouveau;Application mobile
+CLI00313;Marine;Lefebvre;marine.lefebvre@yahoo.fr;0624301022;24 rue de la Paix;35000;Rennes;Bretagne;2021-09-23;Nouveau;Marketplace
+CLI00314;Florian;Leroy;florian.leroy@outlook.fr;0621716836;48 rue des Lilas;31000;Toulouse;Occitanie;2022-07-08;Fidèle;Magasin
+CLI00315;Alexandre;Michel;alexandre.michel@gmail.com;0622028437;91 rue du Commerce;31000;Toulouse;Occitanie;2020-07-09;Fidèle;Magasin
+CLI00316;Anaïs;Simon;anaïs.simon@gmail.com;0649171088;106 rue des Lilas;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2024-05-14;Premium;Magasin
+CLI00317;Mathieu;Durand;mathieu.durand@free.fr;0632761034;98 rue Victor Hugo;30000;Nîmes;Occitanie;2020-10-11;Occasionnel;Marketplace
+CLI00318;Antoine;David;antoine.david@gmail.com;0632442197;112 rue Jean Jaurès;06000;Nice;Provence-Alpes-Côte d'Azur;2022-05-12;Occasionnel;Téléphone
+CLI00319;Anaïs;Dubois;anaïs.dubois@yahoo.fr;0643096758;127 rue du Commerce;51100;Reims;Grand Est;2023-06-16;Standard;Téléphone
+CLI00320;Sophie;Robert;sophie.robert@gmail.com;0663108878;86 rue de la République;59000;Lille;Hauts-de-France;2023-06-24;Nouveau;Marketplace
+CLI00321;Maxime;Simon;maxime.simon@free.fr;0628270317;77 rue Jean Jaurès;83000;Toulon;Provence-Alpes-Côte d'Azur;2023-05-20;Standard;Téléphone
+CLI00322;Lucas;Richard;lucas.richard@yahoo.fr;0649117508;126 rue du Commerce;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2024-05-20;Standard;Marketplace
+CLI00323;Hugo;Leroy;hugo.leroy@yahoo.fr;0625285764;145 rue Victor Hugo;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2023-04-27;Fidèle;Application mobile
+CLI00324;Pauline;Mercier;pauline.mercier@gmail.com;0671957885;54 rue des Lilas;49000;Angers;Pays de la Loire;2024-06-21;Occasionnel;Site web
+CLI00325;Kevin;Bonnet;kevin.bonnet@orange.fr;0628680305;78 rue Victor Hugo;83000;Toulon;Provence-Alpes-Côte d'Azur;2021-06-01;Standard;Téléphone
+CLI00326;Anaïs;Lefebvre;anaïs.lefebvre@orange.fr;0690253323;123 rue du Commerce;13000;Marseille;Provence-Alpes-Côte d'Azur;2022-03-31;Fidèle;Magasin
+CLI00327;Céline;Martinez;céline.martinez@free.fr;0614934536;93 rue Nationale;83000;Toulon;Provence-Alpes-Côte d'Azur;2023-01-04;Fidèle;Site web
+CLI00328;Sophie;Mercier;sophie.mercier@yahoo.fr;0632325574;12 rue du Commerce;34000;Montpellier;Occitanie;2023-08-14;Nouveau;Marketplace
+CLI00329;Anaïs;Michel;anaïs.michel@gmail.com;0623234748;67 rue Victor Hugo;31000;Toulouse;Occitanie;2022-11-11;Fidèle;Magasin
+CLI00330;Julien;Andre;julien.andre@outlook.fr;0669831384;96 rue des Lilas;30000;Nîmes;Occitanie;2022-08-06;Fidèle;Magasin
+CLI00331;Thomas;Laurent;thomas.laurent@orange.fr;0624032377;76 rue des Lilas;75000;Paris;Île-de-France;2020-06-24;Premium;Application mobile
+CLI00332;Léa;Moreau;léa.moreau@orange.fr;0637765262;134 rue des Lilas;35000;Rennes;Bretagne;2021-12-14;Nouveau;Site web
+CLI00333;Maxime;Lefevre;maxime.lefevre@yahoo.fr;0619015987;77 rue de la Paix;76600;Le Havre;Normandie;2023-12-26;Premium;Site web
+CLI00334;Audrey;Simon;audrey.simon@outlook.fr;0642737441;133 rue Victor Hugo;31000;Toulouse;Occitanie;2023-02-04;Standard;Marketplace
+CLI00335;Sarah;Michel;sarah.michel@outlook.fr;0664364546;48 rue Victor Hugo;76600;Le Havre;Normandie;2023-08-04;Nouveau;Téléphone
+CLI00336;Jean;Lefevre;jean.lefevre@outlook.fr;0670340936;110 rue des Lilas;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2020-01-10;Standard;Application mobile
+CLI00337;Antoine;Mercier;antoine.mercier@free.fr;0623656928;138 rue Victor Hugo;13000;Marseille;Provence-Alpes-Côte d'Azur;2022-01-19;Occasionnel;Application mobile
+CLI00338;Maxime;Thomas;maxime.thomas@orange.fr;0680828710;81 rue du Commerce;33000;Bordeaux;Nouvelle-Aquitaine;2022-03-06;Fidèle;Téléphone
+CLI00339;Julien;Thomas;julien.thomas@yahoo.fr;0671453007;45 rue de la République;51100;Reims;Grand Est;2023-10-11;Occasionnel;Magasin
+CLI00340;Julien;Dubois;julien.dubois@yahoo.fr;0625819123;62 rue Jean Jaurès;06000;Nice;Provence-Alpes-Côte d'Azur;2020-08-27;Standard;Marketplace
+CLI00341;Quentin;Robert;quentin.robert@orange.fr;0666135102;36 rue du Commerce;21000;Dijon;Bourgogne-Franche-Comté;2022-02-24;Nouveau;Application mobile
+CLI00342;Manon;Morel;manon.morel@outlook.fr;0684479105;43 rue des Lilas;49000;Angers;Pays de la Loire;2021-08-14;Standard;Application mobile
+CLI00343;Lucas;Lambert;lucas.lambert@free.fr;0617195581;92 rue de la Paix;76600;Le Havre;Normandie;2022-09-19;Standard;Application mobile
+CLI00344;Kevin;Lefebvre;kevin.lefebvre@free.fr;0697653539;127 rue des Lilas;49000;Angers;Pays de la Loire;2023-11-03;Nouveau;Téléphone
+CLI00345;Quentin;Lambert;quentin.lambert@orange.fr;0632448383;22 rue du Commerce;76600;Le Havre;Normandie;2020-03-04;Standard;Marketplace
+CLI00346;Pierre;Leroy;pierre.leroy@free.fr;0648744673;44 rue de la République;34000;Montpellier;Occitanie;2022-07-25;Fidèle;Téléphone
+CLI00347;Sarah;Bertrand;sarah.bertrand@free.fr;0625328557;69 rue de la République;31000;Toulouse;Occitanie;2023-01-17;Occasionnel;Magasin
+CLI00348;Kevin;Mercier;kevin.mercier@orange.fr;0683330295;56 rue des Lilas;69000;Lyon;Auvergne-Rhône-Alpes;2020-07-28;Standard;Marketplace
+CLI00349;Audrey;Bernard;audrey.bernard@yahoo.fr;0656785209;23 rue des Lilas;76600;Le Havre;Normandie;2020-08-28;Standard;Application mobile
+CLI00350;Anaïs;Lefevre;anaïs.lefevre@yahoo.fr;0691907952;110 rue Victor Hugo;30000;Nîmes;Occitanie;2023-06-15;Standard;Application mobile
+CLI00351;Kevin;Petit;kevin.petit@free.fr;0657085656;137 rue Jean Jaurès;69000;Lyon;Auvergne-Rhône-Alpes;2023-05-07;Fidèle;Application mobile
+CLI00352;Lucas;Andre;lucas.andre@yahoo.fr;0686871268;69 rue de la République;59000;Lille;Hauts-de-France;2022-11-19;Premium;Application mobile
+CLI00353;Florian;Dupont;florian.dupont@gmail.com;0647221734;33 rue Nationale;83000;Toulon;Provence-Alpes-Côte d'Azur;2020-09-28;Standard;Application mobile
+CLI00354;Quentin;Simon;quentin.simon@orange.fr;0675694038;37 rue du Commerce;34000;Montpellier;Occitanie;2023-07-19;Occasionnel;Téléphone
+CLI00355;Hugo;Garcia;hugo.garcia@gmail.com;0664069715;132 rue Nationale;13000;Marseille;Provence-Alpes-Côte d'Azur;2021-07-23;Occasionnel;Téléphone
+CLI00356;Manon;Simon;manon.simon@gmail.com;0622501261;118 rue Nationale;30000;Nîmes;Occitanie;2023-09-22;Occasionnel;Site web
+CLI00357;Anaïs;Roux;anaïs.roux@outlook.fr;0667665720;55 rue des Lilas;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2021-07-03;Occasionnel;Marketplace
+CLI00358;Lucas;Roux;lucas.roux@outlook.fr;0685986307;125 rue de la République;30000;Nîmes;Occitanie;2021-12-04;Premium;Site web
+CLI00359;Sophie;Morel;sophie.morel@gmail.com;0626674831;41 rue des Lilas;76600;Le Havre;Normandie;2022-07-23;Premium;Téléphone
+CLI00360;Nicolas;Andre;nicolas.andre@yahoo.fr;0631337593;71 rue de la Paix;06000;Nice;Provence-Alpes-Côte d'Azur;2023-09-02;Occasionnel;Marketplace
+CLI00361;Marie;Laurent;marie.laurent@gmail.com;0663196064;79 rue Nationale;44000;Nantes;Pays de la Loire;2023-12-03;Standard;Téléphone
+CLI00362;Romain;Dubois;romain.dubois@gmail.com;0638644905;123 rue de la Paix;31000;Toulouse;Occitanie;2020-09-28;Fidèle;Application mobile
+CLI00363;Alexandre;Girard;alexandre.girard@gmail.com;0611082139;88 rue de la République;76600;Le Havre;Normandie;2020-09-03;Nouveau;Application mobile
+CLI00364;Manon;Dubois;manon.dubois@orange.fr;0621989814;27 rue de la Paix;34000;Montpellier;Occitanie;2021-10-03;Occasionnel;Marketplace
+CLI00365;Thomas;Lefebvre;thomas.lefebvre@outlook.fr;0619182050;136 rue du Commerce;06000;Nice;Provence-Alpes-Côte d'Azur;2020-01-18;Fidèle;Application mobile
+CLI00366;Maxime;Laurent;maxime.laurent@outlook.fr;0665258766;114 rue de la République;67000;Strasbourg;Grand Est;2021-03-20;Premium;Site web
+CLI00367;Thomas;Mercier;thomas.mercier@free.fr;0661543890;90 rue des Lilas;31000;Toulouse;Occitanie;2021-10-06;Standard;Application mobile
+CLI00368;Antoine;Morel;antoine.morel@outlook.fr;0684275638;73 rue de la République;13000;Marseille;Provence-Alpes-Côte d'Azur;2023-11-15;Premium;Marketplace
+CLI00369;Nicolas;Bertrand;nicolas.bertrand@free.fr;0635319707;101 rue Jean Jaurès;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2023-08-16;Premium;Application mobile
+CLI00370;Manon;Lefebvre;manon.lefebvre@outlook.fr;0677052833;19 rue du Commerce;31000;Toulouse;Occitanie;2020-01-25;Occasionnel;Marketplace
+CLI00371;Thomas;Lefebvre;thomas.lefebvre@orange.fr;0659044830;140 rue Nationale;30000;Nîmes;Occitanie;2020-12-19;Nouveau;Site web
+CLI00372;Jean;Vincent;jean.vincent@gmail.com;0645189912;56 rue de la Paix;13000;Marseille;Provence-Alpes-Côte d'Azur;2020-05-03;Nouveau;Magasin
+CLI00373;Emma;Morel;emma.morel@orange.fr;0666851305;103 rue de la Paix;21000;Dijon;Bourgogne-Franche-Comté;2023-08-04;Fidèle;Magasin
+CLI00374;Laura;Robert;laura.robert@gmail.com;0651594998;21 rue du Commerce;33000;Bordeaux;Nouvelle-Aquitaine;2021-02-20;Standard;Magasin
+CLI00375;Lucas;Lefebvre;lucas.lefebvre@gmail.com;0651630244;112 rue Nationale;30000;Nîmes;Occitanie;2021-05-03;Premium;Application mobile
+CLI00376;Marie;Martinez;marie.martinez@gmail.com;0670850538;15 rue Jean Jaurès;83000;Toulon;Provence-Alpes-Côte d'Azur;2023-09-26;Standard;Site web
+CLI00377;Jean;Andre;jean.andre@gmail.com;0631989243;128 rue Jean Jaurès;06000;Nice;Provence-Alpes-Côte d'Azur;2022-12-07;Fidèle;Marketplace
+CLI00378;Julie;Laurent;julie.laurent@yahoo.fr;0625845304;8 rue Jean Jaurès;06000;Nice;Provence-Alpes-Côte d'Azur;2022-05-29;Occasionnel;Magasin
+CLI00379;Marie;Leroy;marie.leroy@gmail.com;0676591799;117 rue du Commerce;30000;Nîmes;Occitanie;2022-01-07;Premium;Téléphone
+CLI00380;Audrey;Vincent;audrey.vincent@yahoo.fr;0631113788;66 rue de la République;44000;Nantes;Pays de la Loire;2020-07-29;Fidèle;Site web
+CLI00381;Camille;Lefevre;camille.lefevre@gmail.com;0615910667;4 rue Victor Hugo;21000;Dijon;Bourgogne-Franche-Comté;2020-04-04;Nouveau;Marketplace
+CLI00382;Hugo;Martinez;hugo.martinez@outlook.fr;0614746418;142 rue de la République;06000;Nice;Provence-Alpes-Côte d'Azur;2024-01-02;Nouveau;Application mobile
+CLI00383;Lucas;Durand;lucas.durand@yahoo.fr;0646407626;20 rue du Commerce;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-02-02;Premium;Magasin
+CLI00384;Pauline;François;pauline.françois@outlook.fr;0639955391;133 rue de la Paix;69000;Lyon;Auvergne-Rhône-Alpes;2022-04-01;Premium;Téléphone
+CLI00385;Audrey;Moreau;audrey.moreau@yahoo.fr;0621594468;142 rue des Lilas;59000;Lille;Hauts-de-France;2020-01-17;Occasionnel;Application mobile
+CLI00386;Emma;Vincent;emma.vincent@free.fr;0642559072;119 rue Jean Jaurès;59000;Lille;Hauts-de-France;2023-04-26;Nouveau;Application mobile
+CLI00387;Marine;François;marine.françois@outlook.fr;0630208677;2 rue des Lilas;49000;Angers;Pays de la Loire;2020-02-18;Standard;Magasin
+CLI00388;Léa;Morel;léa.morel@yahoo.fr;0610196231;97 rue de la République;75000;Paris;Île-de-France;2024-02-20;Occasionnel;Site web
+CLI00389;Nicolas;Bertrand;nicolas.bertrand@orange.fr;0676038997;16 rue Victor Hugo;34000;Montpellier;Occitanie;2023-12-28;Occasionnel;Site web
+CLI00390;Pierre;Martinez;pierre.martinez@free.fr;0665439545;96 rue des Lilas;34000;Montpellier;Occitanie;2024-03-11;Premium;Magasin
+CLI00391;Sophie;Bertrand;sophie.bertrand@orange.fr;0620043577;146 rue de la Paix;06000;Nice;Provence-Alpes-Côte d'Azur;2022-06-09;Standard;Application mobile
+CLI00392;Emma;Leroy;emma.leroy@orange.fr;0653788744;82 rue des Lilas;35000;Rennes;Bretagne;2021-07-10;Standard;Site web
+CLI00393;Nicolas;Robert;nicolas.robert@gmail.com;0630858851;28 rue Victor Hugo;30000;Nîmes;Occitanie;2022-07-09;Nouveau;Marketplace
+CLI00394;Chloé;Thomas;chloé.thomas@yahoo.fr;0637868462;116 rue Jean Jaurès;49000;Angers;Pays de la Loire;2022-08-06;Occasionnel;Site web
+CLI00395;Marie;Richard;marie.richard@free.fr;0615412975;56 rue de la République;59000;Lille;Hauts-de-France;2021-11-02;Standard;Site web
+CLI00396;Quentin;Durand;quentin.durand@orange.fr;0678915391;13 rue Nationale;51100;Reims;Grand Est;2021-09-04;Occasionnel;Application mobile
+CLI00397;Jean;Lefebvre;jean.lefebvre@free.fr;0683835976;64 rue de la Paix;76600;Le Havre;Normandie;2022-08-04;Premium;Application mobile
+CLI00398;Sophie;Martin;sophie.martin@outlook.fr;0627544302;51 rue de la République;69000;Lyon;Auvergne-Rhône-Alpes;2022-03-31;Occasionnel;Site web
+CLI00399;Julien;Vincent;julien.vincent@gmail.com;0612925970;17 rue Victor Hugo;33000;Bordeaux;Nouvelle-Aquitaine;2023-08-15;Nouveau;Application mobile
+CLI00400;Marie;François;marie.françois@gmail.com;0615730602;119 rue de la Paix;35000;Rennes;Bretagne;2020-12-10;Fidèle;Téléphone
+CLI00401;Kevin;Lefevre;kevin.lefevre@orange.fr;0613957046;98 rue Nationale;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2022-05-23;Standard;Marketplace
+CLI00402;Nicolas;Martinez;nicolas.martinez@yahoo.fr;0647561442;115 rue Victor Hugo;44000;Nantes;Pays de la Loire;2020-03-11;Fidèle;Magasin
+CLI00403;Laura;Durand;laura.durand@orange.fr;0665296657;141 rue des Lilas;59000;Lille;Hauts-de-France;2020-05-04;Premium;Marketplace
+CLI00404;Hugo;Robert;hugo.robert@outlook.fr;0696255361;135 rue Victor Hugo;83000;Toulon;Provence-Alpes-Côte d'Azur;2023-07-15;Fidèle;Site web
+CLI00405;Hugo;Dupont;hugo.dupont@orange.fr;0683083942;125 rue Jean Jaurès;51100;Reims;Grand Est;2023-03-04;Fidèle;Marketplace
+CLI00406;Hugo;Leroy;hugo.leroy@gmail.com;0652799022;57 rue de la Paix;44000;Nantes;Pays de la Loire;2024-05-13;Occasionnel;Site web
+CLI00407;Anaïs;David;anaïs.david@yahoo.fr;0688381665;60 rue Victor Hugo;21000;Dijon;Bourgogne-Franche-Comté;2020-07-24;Standard;Application mobile
+CLI00408;Antoine;Roux;antoine.roux@outlook.fr;0687268086;100 rue Jean Jaurès;69000;Lyon;Auvergne-Rhône-Alpes;2020-12-21;Standard;Application mobile
+CLI00409;Julien;Simon;julien.simon@free.fr;0613785821;91 rue du Commerce;51100;Reims;Grand Est;2023-02-28;Standard;Magasin
+CLI00410;Nicolas;Lambert;nicolas.lambert@free.fr;0651480401;45 rue des Lilas;38000;Grenoble;Auvergne-Rhône-Alpes;2020-03-18;Premium;Site web
+CLI00411;Camille;Fournier;camille.fournier@gmail.com;0680658723;123 rue de la Paix;34000;Montpellier;Occitanie;2021-11-10;Fidèle;Application mobile
+CLI00412;Anaïs;Robert;anaïs.robert@outlook.fr;0653431355;16 rue de la Paix;35000;Rennes;Bretagne;2020-10-29;Fidèle;Application mobile
+CLI00413;Florian;Thomas;florian.thomas@yahoo.fr;0619735027;96 rue Nationale;21000;Dijon;Bourgogne-Franche-Comté;2023-09-18;Nouveau;Magasin
+CLI00414;Sophie;Simon;sophie.simon@yahoo.fr;0628314232;41 rue Nationale;59000;Lille;Hauts-de-France;2022-06-13;Nouveau;Marketplace
+CLI00415;Julie;Andre;julie.andre@free.fr;0657892314;58 rue Nationale;49000;Angers;Pays de la Loire;2023-04-21;Standard;Téléphone
+CLI00416;Emma;Lefevre;emma.lefevre@outlook.fr;0633851602;1 rue Nationale;59000;Lille;Hauts-de-France;2023-03-19;Nouveau;Magasin
+CLI00417;Pierre;Richard;pierre.richard@yahoo.fr;0692058189;57 rue Nationale;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2023-03-04;Premium;Téléphone
+CLI00418;Thomas;Simon;thomas.simon@outlook.fr;0656548066;82 rue Victor Hugo;13000;Marseille;Provence-Alpes-Côte d'Azur;2023-07-26;Premium;Marketplace
+CLI00419;Maxime;Martin;maxime.martin@outlook.fr;0643492807;18 rue Jean Jaurès;33000;Bordeaux;Nouvelle-Aquitaine;2021-06-09;Premium;Site web
+CLI00420;Pierre;Lefebvre;pierre.lefebvre@orange.fr;0632325567;106 rue des Lilas;76600;Le Havre;Normandie;2022-02-14;Occasionnel;Magasin
+CLI00421;Hugo;Thomas;hugo.thomas@free.fr;0697371655;58 rue Victor Hugo;38000;Grenoble;Auvergne-Rhône-Alpes;2022-07-13;Premium;Site web
+CLI00422;Emma;Martin;emma.martin@yahoo.fr;0624055958;19 rue Jean Jaurès;35000;Rennes;Bretagne;2020-12-14;Nouveau;Application mobile
+CLI00423;Marine;Dubois;marine.dubois@gmail.com;0655358959;124 rue Nationale;49000;Angers;Pays de la Loire;2020-03-04;Nouveau;Application mobile
+CLI00424;Laura;François;laura.françois@outlook.fr;0617188130;26 rue Jean Jaurès;83000;Toulon;Provence-Alpes-Côte d'Azur;2021-02-24;Standard;Téléphone
+CLI00425;Quentin;Roux;quentin.roux@yahoo.fr;0698663948;73 rue Jean Jaurès;49000;Angers;Pays de la Loire;2021-05-01;Premium;Site web
+CLI00426;Hugo;Vincent;hugo.vincent@orange.fr;0630614492;14 rue Jean Jaurès;49000;Angers;Pays de la Loire;2020-01-08;Nouveau;Site web
+CLI00427;Emma;Lambert;emma.lambert@orange.fr;0636799898;25 rue de la Paix;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2021-02-27;Standard;Marketplace
+CLI00428;Marie;David;marie.david@yahoo.fr;0663347164;121 rue des Lilas;31000;Toulouse;Occitanie;2023-09-15;Occasionnel;Site web
+CLI00429;Romain;Roux;romain.roux@outlook.fr;0659797531;98 rue Jean Jaurès;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2021-01-17;Nouveau;Site web
+CLI00430;Antoine;Garcia;antoine.garcia@yahoo.fr;0640365724;69 rue du Commerce;76600;Le Havre;Normandie;2020-05-06;Standard;Site web
+CLI00431;Marie;Girard;marie.girard@free.fr;0665564347;59 rue du Commerce;51100;Reims;Grand Est;2020-05-04;Nouveau;Magasin
+CLI00432;Chloé;Roux;chloé.roux@free.fr;0641627336;122 rue Jean Jaurès;38000;Grenoble;Auvergne-Rhône-Alpes;2020-06-10;Nouveau;Site web
+CLI00433;Alexandre;Vincent;alexandre.vincent@free.fr;0693251648;38 rue de la Paix;21000;Dijon;Bourgogne-Franche-Comté;2024-03-30;Nouveau;Application mobile
+CLI00434;Julie;Petit;julie.petit@outlook.fr;0615727862;109 rue de la Paix;67000;Strasbourg;Grand Est;2023-10-31;Nouveau;Application mobile
+CLI00435;Kevin;Morel;kevin.morel@free.fr;0644612921;82 rue Nationale;06000;Nice;Provence-Alpes-Côte d'Azur;2020-05-17;Premium;Téléphone
+CLI00436;Sarah;Lefebvre;sarah.lefebvre@yahoo.fr;0647071046;134 rue des Lilas;49000;Angers;Pays de la Loire;2020-01-26;Fidèle;Magasin
+CLI00437;Alexandre;Dupont;alexandre.dupont@gmail.com;0665625517;39 rue Victor Hugo;83000;Toulon;Provence-Alpes-Côte d'Azur;2023-03-06;Fidèle;Magasin
+CLI00438;Florian;Thomas;florian.thomas@free.fr;0623554707;74 rue de la République;31000;Toulouse;Occitanie;2023-01-01;Occasionnel;Téléphone
+CLI00439;Antoine;Lefebvre;antoine.lefebvre@free.fr;0691733516;122 rue de la Paix;38000;Grenoble;Auvergne-Rhône-Alpes;2020-12-18;Occasionnel;Téléphone
+CLI00440;Thomas;Fournier;thomas.fournier@orange.fr;0615205303;102 rue Jean Jaurès;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2023-11-15;Standard;Site web
+CLI00441;Marine;David;marine.david@yahoo.fr;0612715612;87 rue de la République;33000;Bordeaux;Nouvelle-Aquitaine;2024-06-13;Occasionnel;Marketplace
+CLI00442;Antoine;Lambert;antoine.lambert@gmail.com;0640595926;35 rue Jean Jaurès;38000;Grenoble;Auvergne-Rhône-Alpes;2024-03-03;Nouveau;Marketplace
+CLI00443;Antoine;Lefevre;antoine.lefevre@free.fr;0696644900;23 rue Victor Hugo;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-06-23;Standard;Téléphone
+CLI00444;Marine;David;marine.david@yahoo.fr;0617543817;132 rue de la République;21000;Dijon;Bourgogne-Franche-Comté;2020-11-21;Premium;Marketplace
+CLI00445;Quentin;Bertrand;quentin.bertrand@outlook.fr;0680368504;146 rue de la Paix;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2020-12-21;Standard;Application mobile
+CLI00446;Kevin;Bernard;kevin.bernard@gmail.com;0671263503;13 rue Jean Jaurès;34000;Montpellier;Occitanie;2023-12-14;Standard;Marketplace
+CLI00447;Léa;Lambert;léa.lambert@free.fr;0663276690;32 rue Nationale;76600;Le Havre;Normandie;2020-03-03;Standard;Marketplace
+CLI00448;Manon;Fournier;manon.fournier@outlook.fr;0673697356;142 rue Jean Jaurès;76600;Le Havre;Normandie;2021-12-06;Standard;Marketplace
+CLI00449;Marine;Lambert;marine.lambert@yahoo.fr;0613684342;99 rue de la Paix;13000;Marseille;Provence-Alpes-Côte d'Azur;2020-11-29;Fidèle;Application mobile
+CLI00450;Audrey;Durand;audrey.durand@outlook.fr;0646115786;105 rue du Commerce;34000;Montpellier;Occitanie;2020-02-11;Premium;Téléphone
+CLI00451;Céline;Robert;céline.robert@free.fr;0611135982;58 rue Jean Jaurès;44000;Nantes;Pays de la Loire;2023-05-30;Occasionnel;Marketplace
+CLI00452;Chloé;François;chloé.françois@yahoo.fr;0671605671;65 rue Victor Hugo;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2022-08-13;Occasionnel;Magasin
+CLI00453;Kevin;Fournier;kevin.fournier@free.fr;0623732098;2 rue du Commerce;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2023-09-18;Occasionnel;Magasin
+CLI00454;Romain;Fournier;romain.fournier@yahoo.fr;0650060760;28 rue des Lilas;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2020-05-10;Occasionnel;Marketplace
+CLI00455;Romain;Simon;romain.simon@yahoo.fr;0698062882;77 rue Victor Hugo;33000;Bordeaux;Nouvelle-Aquitaine;2020-11-03;Fidèle;Application mobile
+CLI00456;Mathieu;Bernard;mathieu.bernard@orange.fr;0698654879;82 rue Nationale;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2020-10-13;Premium;Téléphone
+CLI00457;Emma;Leroy;emma.leroy@orange.fr;0662113377;10 rue du Commerce;83000;Toulon;Provence-Alpes-Côte d'Azur;2023-12-21;Fidèle;Application mobile
+CLI00458;Lucas;Lefevre;lucas.lefevre@free.fr;0695672999;122 rue Nationale;34000;Montpellier;Occitanie;2022-01-04;Fidèle;Marketplace
+CLI00459;Audrey;Richard;audrey.richard@outlook.fr;0649431028;25 rue des Lilas;49000;Angers;Pays de la Loire;2020-09-19;Occasionnel;Magasin
+CLI00460;Florian;Martinez;florian.martinez@yahoo.fr;0697836731;23 rue Victor Hugo;44000;Nantes;Pays de la Loire;2021-12-28;Standard;Marketplace
+CLI00461;Chloé;Dupont;chloé.dupont@yahoo.fr;0644971668;150 rue Jean Jaurès;35000;Rennes;Bretagne;2022-08-07;Premium;Téléphone
+CLI00462;Pierre;Bonnet;pierre.bonnet@free.fr;0693302863;19 rue des Lilas;30000;Nîmes;Occitanie;2021-02-02;Fidèle;Site web
+CLI00463;Audrey;Girard;audrey.girard@free.fr;0650044631;106 rue de la Paix;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2020-11-04;Standard;Application mobile
+CLI00464;Lucas;Michel;lucas.michel@orange.fr;0629223220;81 rue de la République;30000;Nîmes;Occitanie;2024-01-05;Standard;Site web
+CLI00465;Manon;Simon;manon.simon@yahoo.fr;0695161010;15 rue de la Paix;44000;Nantes;Pays de la Loire;2022-07-14;Occasionnel;Application mobile
+CLI00466;Florian;Mercier;florian.mercier@free.fr;0631264801;126 rue de la République;44000;Nantes;Pays de la Loire;2024-04-12;Premium;Application mobile
+CLI00467;Laura;Michel;laura.michel@orange.fr;0667582820;123 rue des Lilas;83000;Toulon;Provence-Alpes-Côte d'Azur;2020-01-10;Premium;Magasin
+CLI00468;Nicolas;Lefevre;nicolas.lefevre@gmail.com;0653246714;136 rue Victor Hugo;51100;Reims;Grand Est;2020-02-06;Premium;Application mobile
+CLI00469;Camille;Andre;camille.andre@yahoo.fr;0627304799;27 rue des Lilas;51100;Reims;Grand Est;2022-10-27;Fidèle;Marketplace
+CLI00470;Julie;Dubois;julie.dubois@yahoo.fr;0649034245;117 rue Nationale;69000;Lyon;Auvergne-Rhône-Alpes;2022-12-01;Fidèle;Magasin
+CLI00471;Lucas;Michel;lucas.michel@yahoo.fr;0675790669;92 rue de la République;06000;Nice;Provence-Alpes-Côte d'Azur;2021-01-20;Standard;Téléphone
+CLI00472;Jean;Durand;jean.durand@outlook.fr;0638345472;6 rue du Commerce;34000;Montpellier;Occitanie;2022-10-30;Standard;Site web
+CLI00473;Léa;Andre;léa.andre@orange.fr;0695942441;66 rue de la République;69000;Lyon;Auvergne-Rhône-Alpes;2022-12-31;Fidèle;Site web
+CLI00474;Laura;Bernard;laura.bernard@gmail.com;0616473999;30 rue des Lilas;31000;Toulouse;Occitanie;2022-06-28;Nouveau;Site web
+CLI00475;Sarah;Leroy;sarah.leroy@outlook.fr;0637581060;3 rue Jean Jaurès;38000;Grenoble;Auvergne-Rhône-Alpes;2022-05-11;Premium;Magasin
+CLI00476;Antoine;Fournier;antoine.fournier@outlook.fr;0666213840;27 rue du Commerce;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2024-01-12;Fidèle;Site web
+CLI00477;Emma;Thomas;emma.thomas@orange.fr;0636661903;52 rue de la République;31000;Toulouse;Occitanie;2021-06-22;Fidèle;Application mobile
+CLI00478;Léa;Andre;léa.andre@yahoo.fr;0631524980;11 rue du Commerce;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-10-13;Standard;Téléphone
+CLI00479;Lucas;Durand;lucas.durand@gmail.com;0621945758;29 rue de la République;75000;Paris;Île-de-France;2023-03-21;Nouveau;Application mobile
+CLI00480;Marie;Mercier;marie.mercier@gmail.com;0623594977;66 rue Nationale;21000;Dijon;Bourgogne-Franche-Comté;2021-04-18;Nouveau;Marketplace
+CLI00481;Antoine;Garcia;antoine.garcia@gmail.com;0633448079;11 rue de la République;69000;Lyon;Auvergne-Rhône-Alpes;2021-08-18;Occasionnel;Marketplace
+CLI00482;Chloé;Lefevre;chloé.lefevre@gmail.com;0616159129;3 rue de la République;31000;Toulouse;Occitanie;2020-10-10;Standard;Marketplace
+CLI00483;Léa;François;léa.françois@free.fr;0646011877;24 rue Jean Jaurès;76600;Le Havre;Normandie;2021-12-02;Standard;Site web
+CLI00484;Hugo;Lefebvre;hugo.lefebvre@yahoo.fr;0661769856;123 rue de la République;76600;Le Havre;Normandie;2022-05-13;Standard;Site web
+CLI00485;Thomas;Andre;thomas.andre@outlook.fr;0623920137;107 rue du Commerce;69000;Lyon;Auvergne-Rhône-Alpes;2022-09-15;Fidèle;Téléphone
+CLI00486;Julie;Fournier;julie.fournier@yahoo.fr;0692055138;8 rue de la République;42000;Saint-Étienne;Auvergne-Rhône-Alpes;2023-11-02;Standard;Téléphone
+CLI00487;Céline;David;céline.david@orange.fr;0669148126;12 rue de la Paix;31000;Toulouse;Occitanie;2021-06-19;Occasionnel;Site web
+CLI00488;Quentin;Bonnet;quentin.bonnet@free.fr;0685834657;58 rue Nationale;21000;Dijon;Bourgogne-Franche-Comté;2021-11-23;Fidèle;Magasin
+CLI00489;Quentin;Andre;quentin.andre@gmail.com;0668095862;64 rue des Lilas;63000;Clermont-Ferrand;Auvergne-Rhône-Alpes;2021-12-09;Nouveau;Application mobile
+CLI00490;Kevin;Lambert;kevin.lambert@free.fr;0617323740;3 rue Nationale;49000;Angers;Pays de la Loire;2020-11-17;Fidèle;Téléphone
+CLI00491;Audrey;David;audrey.david@gmail.com;0675987872;83 rue Victor Hugo;44000;Nantes;Pays de la Loire;2021-11-08;Occasionnel;Site web
+CLI00492;Alexandre;Durand;alexandre.durand@orange.fr;0664126921;61 rue de la Paix;49000;Angers;Pays de la Loire;2022-07-29;Nouveau;Magasin
+CLI00493;Maxime;Dubois;maxime.dubois@orange.fr;0652421060;31 rue des Lilas;38000;Grenoble;Auvergne-Rhône-Alpes;2024-03-06;Premium;Site web
+CLI00494;Hugo;Michel;hugo.michel@free.fr;0683698792;1 rue de la République;69000;Lyon;Auvergne-Rhône-Alpes;2020-07-05;Fidèle;Magasin
+CLI00495;Romain;Moreau;romain.moreau@free.fr;0637763104;117 rue Jean Jaurès;21000;Dijon;Bourgogne-Franche-Comté;2022-01-14;Premium;Application mobile
+CLI00496;Audrey;Garcia;audrey.garcia@free.fr;0693182506;122 rue Nationale;35000;Rennes;Bretagne;2023-09-07;Occasionnel;Téléphone
+CLI00497;Sophie;Thomas;sophie.thomas@gmail.com;0655816176;91 rue de la République;34000;Montpellier;Occitanie;2023-07-21;Occasionnel;Magasin
+CLI00498;Alexandre;Laurent;alexandre.laurent@gmail.com;0632032560;127 rue Victor Hugo;31000;Toulouse;Occitanie;2024-01-08;Nouveau;Site web
+CLI00499;Antoine;Fournier;antoine.fournier@outlook.fr;0626206227;101 rue Victor Hugo;67000;Strasbourg;Grand Est;2022-07-25;Standard;Marketplace
+CLI00500;Sophie;Mercier;sophie.mercier@gmail.com;0694992096;32 rue de la République;83000;Toulon;Provence-Alpes-Côte d'Azur;2022-07-11;Nouveau;Magasin

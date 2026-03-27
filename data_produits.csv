@@ -1,0 +1,101 @@
+produit_id;nom_produit;categorie;sous_categorie;prix_unitaire;cout_achat;stock_actuel;stock_min;fournisseur;note_moyenne;nb_avis
+PRD00001;iPhone 15 Pro;Électronique;Smartphones;1199;708.89;68;41;Fournisseur A;4.3;34
+PRD00002;Samsung Galaxy S24;Électronique;Smartphones;899;459.07;221;47;Fournisseur D;4.9;409
+PRD00003;Google Pixel 8;Électronique;Smartphones;699;408.38;90;47;Fournisseur B;4.6;75
+PRD00004;Xiaomi 14;Électronique;Smartphones;599;252.01;336;48;Fournisseur C;4.3;206
+PRD00005;MacBook Air M3;Électronique;Ordinateurs portables;1299;628.37;311;25;Fournisseur C;4.1;185
+PRD00006;Dell XPS 15;Électronique;Ordinateurs portables;1499;890.55;231;18;Fournisseur B;4.1;368
+PRD00007;HP Spectre;Électronique;Ordinateurs portables;1199;692.17;262;29;Fournisseur C;4.6;488
+PRD00008;Lenovo ThinkPad;Électronique;Ordinateurs portables;999;510.21;111;22;Fournisseur B;4.4;158
+PRD00009;iPad Pro 12.9;Électronique;Tablettes;1299;697.98;471;18;Fournisseur B;4.3;365
+PRD00010;Samsung Tab S9;Électronique;Tablettes;799;421.37;363;17;Fournisseur C;4.3;308
+PRD00011;iPad Air;Électronique;Tablettes;699;359.38;341;36;Fournisseur C;4.8;226
+PRD00012;Lenovo Tab P12;Électronique;Tablettes;449;252.19;267;16;Fournisseur A;4.1;37
+PRD00013;AirPods Pro;Électronique;Accessoires;279;149.0;102;27;Fournisseur B;5.0;359
+PRD00014;Chargeur rapide;Électronique;Accessoires;49;22.06;429;13;Fournisseur C;3.8;287
+PRD00015;Coque protection;Électronique;Accessoires;29;11.79;416;38;Fournisseur A;4.4;355
+PRD00016;Câble USB-C;Électronique;Accessoires;19;10.41;442;24;Fournisseur D;3.9;411
+PRD00017;Sony WH-1000XM5;Électronique;Audio;379;212.0;356;28;Fournisseur A;4.9;208
+PRD00018;Bose QC45;Électronique;Audio;329;159.01;403;30;Fournisseur A;3.5;138
+PRD00019;JBL Flip 6;Électronique;Audio;129;56.84;444;38;Fournisseur B;4.9;370
+PRD00020;Marshall Stanmore;Électronique;Audio;349;189.13;188;47;Fournisseur B;4.7;109
+PRD00021;Chemise Oxford;Mode;Vêtements homme;59;27.07;90;14;Fournisseur B;4.9;386
+PRD00022;Jean slim;Mode;Vêtements homme;79;39.72;193;12;Fournisseur D;3.9;145
+PRD00023;Pull cachemire;Mode;Vêtements homme;129;54.96;299;26;Fournisseur A;4.0;373
+PRD00024;T-shirt basique;Mode;Vêtements homme;25;14.69;20;19;Fournisseur C;4.4;406
+PRD00025;Robe été;Mode;Vêtements femme;69;40.47;315;29;Fournisseur D;4.7;291
+PRD00026;Blazer;Mode;Vêtements femme;119;56.12;401;30;Fournisseur B;4.9;276
+PRD00027;Jean taille haute;Mode;Vêtements femme;89;36.81;258;20;Fournisseur D;4.3;216
+PRD00028;Top soie;Mode;Vêtements femme;79;33.05;113;23;Fournisseur C;4.0;160
+PRD00029;Sneakers Nike;Mode;Chaussures;129;57.24;385;49;Fournisseur D;5.0;431
+PRD00030;Bottes cuir;Mode;Chaussures;189;104.03;332;10;Fournisseur A;4.5;238
+PRD00031;Mocassins;Mode;Chaussures;99;44.36;328;49;Fournisseur B;4.9;359
+PRD00032;Sandales;Mode;Chaussures;59;34.05;195;17;Fournisseur D;3.9;380
+PRD00033;Sac à main cuir;Mode;Accessoires mode;199;90.86;466;43;Fournisseur C;4.3;270
+PRD00034;Ceinture;Mode;Accessoires mode;49;23.97;22;28;Fournisseur B;4.0;52
+PRD00035;Écharpe laine;Mode;Accessoires mode;69;40.69;85;44;Fournisseur A;4.4;117
+PRD00036;Lunettes soleil;Mode;Accessoires mode;129;68.89;396;23;Fournisseur D;4.8;115
+PRD00037;Montre connectée;Mode;Bijoux;299;151.76;359;37;Fournisseur A;4.6;88
+PRD00038;Bracelet argent;Mode;Bijoux;79;31.98;367;31;Fournisseur A;3.6;37
+PRD00039;Collier perles;Mode;Bijoux;149;64.9;128;45;Fournisseur A;4.4;126
+PRD00040;Boucles oreilles;Mode;Bijoux;49;28.53;208;34;Fournisseur D;4.4;231
+PRD00041;Canapé 3 places;Maison;Mobilier;899;416.49;199;17;Fournisseur A;4.5;326
+PRD00042;Table basse;Maison;Mobilier;249;102.75;381;47;Fournisseur A;4.6;47
+PRD00043;Étagère murale;Maison;Mobilier;129;60.83;257;16;Fournisseur C;4.7;164
+PRD00044;Fauteuil design;Maison;Mobilier;449;234.07;144;38;Fournisseur D;4.1;348
+PRD00045;Lampe design;Maison;Décoration;89;36.15;80;44;Fournisseur B;3.7;210
+PRD00046;Tableau abstrait;Maison;Décoration;149;83.34;434;44;Fournisseur C;4.9;83
+PRD00047;Vase céramique;Maison;Décoration;59;27.12;454;33;Fournisseur A;4.3;294
+PRD00048;Miroir rond;Maison;Décoration;79;33.83;21;10;Fournisseur D;4.3;494
+PRD00049;Robot cuisine;Maison;Électroménager;599;249.8;107;32;Fournisseur B;4.1;340
+PRD00050;Machine café;Maison;Électroménager;299;170.52;72;20;Fournisseur B;3.8;437
+PRD00051;Aspirateur robot;Maison;Électroménager;449;202.3;58;21;Fournisseur A;4.8;487
+PRD00052;Blender;Maison;Électroménager;89;53.22;281;39;Fournisseur A;3.9;44
+PRD00053;Matelas mémoire;Maison;Literie;699;314.65;101;47;Fournisseur D;4.9;192
+PRD00054;Couette duvet;Maison;Literie;149;63.42;335;25;Fournisseur A;3.9;45
+PRD00055;Oreillers lot 2;Maison;Literie;79;45.82;162;41;Fournisseur D;4.0;347
+PRD00056;Parure draps;Maison;Literie;89;41.04;299;19;Fournisseur C;4.7;500
+PRD00057;Armoire;Maison;Rangement;399;193.78;2;30;Fournisseur B;4.7;374
+PRD00058;Commode 4 tiroirs;Maison;Rangement;249;136.44;223;27;Fournisseur C;3.7;385
+PRD00059;Boîtes rangement;Maison;Rangement;39;18.19;245;39;Fournisseur D;4.0;166
+PRD00060;Porte-manteau;Maison;Rangement;79;39.29;55;21;Fournisseur A;4.8;449
+PRD00061;Tapis yoga;Sport;Fitness;39;22.05;456;44;Fournisseur B;3.9;463
+PRD00062;Haltères 10kg;Sport;Fitness;59;30.99;372;14;Fournisseur A;4.8;333
+PRD00063;Bande élastique;Sport;Fitness;19;7.72;297;47;Fournisseur D;4.7;118
+PRD00064;Tapis course;Sport;Fitness;799;464.43;282;26;Fournisseur D;4.5;86
+PRD00065;Chaussures running;Sport;Running;139;65.77;114;47;Fournisseur C;3.7;266
+PRD00066;Montre GPS;Sport;Running;249;125.02;203;33;Fournisseur A;4.5;444
+PRD00067;Short technique;Sport;Running;49;29.05;314;20;Fournisseur B;4.2;101
+PRD00068;T-shirt respirant;Sport;Running;39;20.02;289;19;Fournisseur D;4.9;30
+PRD00069;Ballon foot;Sport;Sports collectifs;29;12.87;249;24;Fournisseur A;3.9;129
+PRD00070;Raquette tennis;Sport;Sports collectifs;89;36.36;105;43;Fournisseur C;4.1;479
+PRD00071;Maillot équipe;Sport;Sports collectifs;69;33.87;23;12;Fournisseur C;3.7;276
+PRD00072;Protections;Sport;Sports collectifs;39;20.54;140;26;Fournisseur B;4.1;203
+PRD00073;Tente 2 places;Sport;Outdoor;199;94.14;334;14;Fournisseur C;4.1;474
+PRD00074;Sac randonnée;Sport;Outdoor;129;57.35;207;32;Fournisseur C;4.2;256
+PRD00075;Bâtons marche;Sport;Outdoor;59;34.07;3;42;Fournisseur B;4.2;127
+PRD00076;Gourde isotherme;Sport;Outdoor;29;12.05;329;27;Fournisseur B;3.7;90
+PRD00077;Maillot compétition;Sport;Natation;69;32.6;367;17;Fournisseur B;4.1;179
+PRD00078;Lunettes natation;Sport;Natation;29;15.78;246;40;Fournisseur D;3.8;92
+PRD00079;Bonnet silicone;Sport;Natation;15;7.94;210;11;Fournisseur B;3.6;303
+PRD00080;Palmes;Sport;Natation;49;25.41;68;50;Fournisseur A;4.8;85
+PRD00081;Crème hydratante;Beauté;Soins visage;39;16.04;132;21;Fournisseur D;4.4;298
+PRD00082;Sérum vitamine C;Beauté;Soins visage;49;25.85;449;28;Fournisseur A;3.8;320
+PRD00083;Nettoyant;Beauté;Soins visage;19;11.37;444;40;Fournisseur B;3.8;220
+PRD00084;Masque;Beauté;Soins visage;25;13.0;406;47;Fournisseur B;4.4;271
+PRD00085;Fond de teint;Beauté;Maquillage;35;15.85;370;31;Fournisseur D;4.4;45
+PRD00086;Mascara;Beauté;Maquillage;25;11.15;197;18;Fournisseur A;3.5;277
+PRD00087;Rouge à lèvres;Beauté;Maquillage;29;16.59;258;36;Fournisseur B;4.4;100
+PRD00088;Palette fards;Beauté;Maquillage;49;24.26;314;48;Fournisseur A;4.8;282
+PRD00089;Eau de parfum 100ml;Beauté;Parfums;89;44.56;60;15;Fournisseur D;4.5;471
+PRD00090;Coffret découverte;Beauté;Parfums;59;30.72;423;10;Fournisseur D;4.3;199
+PRD00091;Brume corporelle;Beauté;Parfums;35;20.12;357;43;Fournisseur D;3.8;420
+PRD00092;Parfum voyage;Beauté;Parfums;45;22.34;393;34;Fournisseur C;4.4;389
+PRD00093;Lait corps;Beauté;Soins corps;19;11.05;428;46;Fournisseur A;4.1;140
+PRD00094;Huile massage;Beauté;Soins corps;29;14.37;119;15;Fournisseur C;4.4;288
+PRD00095;Gommage;Beauté;Soins corps;25;12.04;96;10;Fournisseur A;4.4;70
+PRD00096;Baume lèvres;Beauté;Soins corps;9;4.54;192;23;Fournisseur C;4.1;64
+PRD00097;Shampoing;Beauté;Cheveux;15;6.46;333;47;Fournisseur C;3.9;284
+PRD00098;Après-shampoing;Beauté;Cheveux;15;7.27;187;49;Fournisseur C;5.0;213
+PRD00099;Masque capillaire;Beauté;Cheveux;25;13.77;211;45;Fournisseur D;3.8;296
+PRD00100;Huile argan;Beauté;Cheveux;19;9.71;129;29;Fournisseur C;4.7;213
